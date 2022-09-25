@@ -3,11 +3,7 @@ import React, { useState } from "react";
 import MarketReport from "../components/templates/MarketReport/MarketReport";
 import { Context } from "../storage/Context";
 
-type PiyasaReportProps = {
-  reports: any;
-};
-
-export default function PiyasaReport({ reports }: any) {
+export default function PiyasaReport( reports: Report[]) {
   const [selectedDepartments, setSelectedDepartments] = useState({
     first: 0,
     second: "",
@@ -32,10 +28,8 @@ export default function PiyasaReport({ reports }: any) {
 }
 
 export async function getStaticProps() {
-  const res = await fetch(
-    `https://uni-atlas-data.vercel.app/market-report-data.json`
-  );
-  const reports = await res.json();
+  const res = await fetch(`${process.env.SERVICE_HOST}/reports`);
+  const reports: Report[] = await res.json();
 
   return {
     props: { reports },

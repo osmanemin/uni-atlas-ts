@@ -42,7 +42,7 @@ export default function MarketReport(): JSX.Element {
           <AnalyzeFilter />
         </div>
         <GraphOfReport
-          data={context.reports.data[context.selectedDepartments.first]}
+          data={context.reports.reports[context.selectedDepartments.first]}
         />
       </CompareReport>
     </>

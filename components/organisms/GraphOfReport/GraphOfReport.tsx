@@ -31,11 +31,11 @@ export default function GraphOfReport({
         </div>
       </div>
       <div className={styles.content}>
-        {data.message.EmploymentTimeDistributionRate.map((rate: any, index: number) => (
+        {data.EmploymentTimeDistributionRate.map((rate: any, index: number) => (
           <ColumnOfGraph
             percent={rate}
             key={index}
-            title={data.message.EmploymentTimeDistributionTitle[index]}
+            title={data.EmploymentTimeDistributionTitle[index]}
           />
         ))}
       </div>
