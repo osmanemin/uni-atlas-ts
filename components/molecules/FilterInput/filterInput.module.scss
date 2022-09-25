@@ -1,0 +1,47 @@
+.inputContainer {
+  font-size: 14px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  margin-bottom: 15px;
+
+  .arrowBottom {
+    top: 0;
+    bottom: 3px;
+    margin: auto;
+    position: absolute;
+    right: 12%;
+    width: 8px;
+    height: 8px;
+    border-bottom: black solid 2px;
+    border-right: black solid 2px;
+    transform: rotate(45deg);
+  }
+  .input {
+    outline: none;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    width: 90%;
+  }
+}
+
+.optionsContainer {
+  font-size: 14px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 85%;
+  margin-bottom: 15px;
+  background-color: white;
+  border-radius: 10px;
+  .option {
+    outline: none;
+    border: none;
+    padding: 10px 0;
+    width: 90%;
+  }
+}

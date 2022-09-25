@@ -1,0 +1,52 @@
+@mixin animation() {
+  @keyframes example {
+    0% {
+      top: 0px;
+    }
+    50% {
+      top: 30px;
+    }
+    100% {
+      top: 0px;
+    }
+  }
+
+  animation-name: example;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-out;
+}
+
+.container {
+  position: absolute;
+  bottom: 50px;
+  right: 0;
+  left: 0;
+  margin: auto;
+  width: min-content;
+  
+  .mause {
+    width: 40px;
+    height: 70px;
+    border: 3px solid black;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+
+    .scroll {
+      background-color: black;
+      border-radius: 50px;
+      height: 12px;
+      width: 4px;
+      position: relative;
+      @include animation;
+    }
+  }
+}
+
+@media (max-width: 580px) {
+  .container {
+    display: none;
+  }
+}

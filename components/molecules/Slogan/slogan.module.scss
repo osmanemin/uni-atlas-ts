@@ -1,0 +1,22 @@
+.slogan{
+    height: max-content;
+    position: absolute;
+    white-space: pre-wrap;
+    color: white;
+    font-family: 'Dancing Script';
+    top: 300px;
+    font-size: 80px;
+    margin: auto;
+    left: 150px;
+}
+@media (max-width: 1050px) {
+    .slogan{
+        left: 75px;
+    }
+}
+
+@media (max-width: 580px) {
+    .slogan {
+        display: none;
+    }
+  }

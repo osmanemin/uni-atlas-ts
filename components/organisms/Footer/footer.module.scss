@@ -1,0 +1,10 @@
+@import "../../../styles/mixins.scss";
+
+.container{
+    .mainFooter{
+        @include centering();
+    }
+    .hide{
+        display: none !important;
+    }
+}

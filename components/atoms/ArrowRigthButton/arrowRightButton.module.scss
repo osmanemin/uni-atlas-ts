@@ -1,0 +1,54 @@
+.container {
+  background-color: #ff1f3e;
+  padding: 5px;
+  position: absolute;
+  border-radius: 15px;
+  cursor: pointer;
+  
+  .content {
+    position: relative;
+    height: 50px;
+    width: 50px;
+
+    .top {
+      background-color: white;
+      top: 0;
+      left: 10px;
+      right: 0;
+      bottom: 9px;
+      margin: auto;
+      position: absolute;
+      height: 6px;
+      width: 19px;
+      transform: rotate(45deg);
+      border-radius: 40px 0 0 40px;
+    }
+
+    .center {
+      background-color: white;
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 8px;
+      bottom: 0;
+      height: 6px;
+      width: 20px;
+      margin: auto;
+      border-radius: 40px;
+    }
+
+    .bottom {
+      background-color: white;
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      right: 0;
+      bottom: 0;
+      height: 6px;
+      width: 19px;
+      margin: auto;
+      transform: rotate(315deg);
+      border-radius: 40px 0 0 40px;
+    }
+  }
+}

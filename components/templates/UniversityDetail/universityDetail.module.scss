@@ -1,0 +1,59 @@
+.bgImage {
+  //background-image: url("/background/pages/market_bg.jpeg");
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0% 50%;
+  .navi {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: rgba($color: #5a5a5a, $alpha: 0.8);
+    width: 100vw;
+    height: 100px;
+    position: relative;
+    .img{
+        position: absolute;
+        left: 100px;
+        top: 30px;
+        width: 200px;
+    }
+    .naviTitle {
+      margin-right: 80px;
+      color: white;
+      font-size: 18px;
+      font-weight: 300;
+      cursor: pointer;
+    }
+    .naviGoTo{
+        background-color: black;
+        padding: 15px 20px;
+        border-radius: 5px;
+    }
+  }
+  .summary{
+    background-color: rgba($color: white, $alpha: 0.8);
+    width: 280px !important;
+    display: flex;
+    height: 250px;
+    top: 280px;
+    left: 100px;
+    padding: 30px 40px !important;
+    justify-content: space-between !important;
+    flex-direction: column;
+  }
+  .summaryUniNameContent{
+    background-color: rgba($color: white, $alpha: 0.8);
+    width: fit-content !important;
+    height: 100px;
+    top: 280px;
+    left: 400px;
+  }
+  .summaryUniName{
+    margin: 0 !important;
+    color: #5A5A5A;
+    font-size: 28px;
+    font-weight: 500;
+  }
+}

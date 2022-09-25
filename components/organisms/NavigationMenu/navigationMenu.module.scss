@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  justify-content: center;
+  height: 20vh;
+  width: 100vw;
+}
+
+@media (max-width: 850px) {
+  .container{
+      height: 130px;
+  }
+}
+
+@media (max-width: 580px) {
+  .container{
+    flex-direction: column;
+    height: fit-content;
+    position: absolute;
+    bottom: 20vh;
+  }
+}

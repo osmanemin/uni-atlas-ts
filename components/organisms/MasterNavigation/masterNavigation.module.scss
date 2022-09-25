@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  height: 240px;
+  .uniAtlas {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  .uniTitle {
+    font-size: 18px !important;
+    margin-bottom: 10px;
+  }
+  .title {
+    text-align: center;
+    font-size: 70px;
+    margin: 0;
+    color: white;
+    cursor: default;
+  }
+}
+
+@media (max-width: 580px) {
+  .container {
+    height: 220px;
+    .title {
+      font-size: 35px;
+    }
+  }
+}

@@ -1,0 +1,8 @@
+.upSide {
+  height: 100vh;
+}
+@media (max-width: 580px) {
+  .upSide {
+    height: 100%;
+  }
+}

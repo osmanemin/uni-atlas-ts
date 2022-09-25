@@ -1,0 +1,57 @@
+.container {
+  position: relative;
+  max-width: 900px;
+  height: 250;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 20px;
+
+  .background {
+    [class*="horizontalRow"] {
+      position: absolute;
+      width: 92%;
+      height: 1px;
+      left: 40px;
+      right: 10px;
+      background-color: rgba($color: #8a8a8a, $alpha: 0.6);
+      p {
+          width: 30px;
+          text-align: center;
+        margin-top: -8px;
+        margin-left: -35px;
+      }
+    }
+    .verticalRow {
+      top: -5px;
+      left: 50px;
+      width: 1px;
+      height: 265px;
+      background-color: #8a8a8a;
+      position: absolute;
+    }
+    .horizontalRow {
+      bottom: 0;
+    }
+
+    .horizontalRow25 {
+      bottom: 25%;
+    }
+
+    .horizontalRow50 {
+      bottom: 50%;
+    }
+
+    .horizontalRow75 {
+      bottom: 75%;
+    }
+
+    .horizontalRow100 {
+      top: 0;
+    }
+  }
+  .content {
+    margin: 0 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+}

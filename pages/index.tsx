@@ -1,9 +1,15 @@
-import type { NextPage } from "next";
+import Main from "../components/templates/Main/Main";
 
-const Home: NextPage = () => {
+import { NextPage } from "next";
+import { Head } from "../components/molecules/Head";
+
+const HomePage: NextPage = () => {
   return (
-      <h1>Hello world!</h1>
+    <>
+      <Head />
+      <Main />
+    </>
   );
 };
 
-export default Home;
+export default HomePage;

@@ -1,0 +1,54 @@
+.bgImage {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-image: url("/background/pages/background.jpeg");
+  background-position: 0% 25%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 80vh;
+
+  .uniAtlas{
+    position: absolute;
+    top: 100px;
+    left: 150px;
+    width: 130px;
+    height: 130px;
+  }
+  
+}
+
+@media (max-width: 850px) {
+  .bgImage {
+    background-position: 40% 25%;
+    padding-top: calc(100vh - 130px);
+  }
+}
+
+@media (max-width: 580px) {
+  .bgImage {
+    height: 120vh;
+    background-position: 50% 25%;
+    padding-top: 0;
+
+    .uniAtlas{
+      top: 50px;
+      left: 40px;
+      width: 100px;
+      height: 100px;
+    }
+
+  }
+  .finder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    transform: rotate(-5deg);
+    margin-top: -30px;
+    width: calc(100% + 20px);
+    margin-bottom: 40px;
+    padding-right: 20px;
+    padding-top: 10px;
+  }
+}

@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: column;justify-content: flex-end;
+    align-items: center;
+    height: 250px;
+
+    .rate{
+        margin-top: -20px;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .column{
+        position: relative;
+        width: 75px;
+        background-color: aqua;
+        transition: all 0.4s;
+    }
+
+    .title{
+        text-align: center;
+        position: absolute;
+        font-size: 12px;
+        bottom: -30px;
+        width: 75px;
+        white-space: nowrap;
+    }
+}
