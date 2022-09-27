@@ -1,4 +1,5 @@
 import React from "react";
+import findData from "../../api/fiind";
 
 import { Head } from "../../components/molecules/Head";
 import UniversityDetail from "../../components/templates/UniversityDetail/UniversityDetail";
@@ -14,10 +15,9 @@ export default function Uni(university: University) {
 }
 
 export async function getStaticPaths() {
-  const res = await fetch(`${process.env.SERVICE_HOST}/universities`);
-  const unies: University[] = await res.json();
-
-  const paths = unies.map((uni) => ({
+  const universities: University[] = [];
+  await findData({data: universities, collectionName: "universities"})
+  const paths = universities.map((uni) => ({
     params: {
       uni: uni.slug,
     },
@@ -27,10 +27,9 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps(params: {params: { uni: string }}) {
-  const res = await fetch(
-    `${process.env.SERVICE_HOST}/universities?slug=${params.params.uni}`
-  );
-  const university: University = await res.json();
+  const universities: University[] = [];
+  await findData({data: universities, collectionName: "universities", query: {slug: params.params.uni}})
+  const university: University = universities[0];
   return {
     props: { university },
   };

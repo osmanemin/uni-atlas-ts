@@ -1,25 +1,25 @@
 import React from "react";
+import findData from "../api/fiind";
 
 import Universities from "../components/templates/Universities/Universities";
 import { Context } from "../storage/Context";
 
 type UniversitelerProps = {
-  unies: University[]
-}
+  universities: University[];
+};
 
-export default function Universiteler({unies}: UniversitelerProps) {
+export default function Universitelerr({ universities }: UniversitelerProps) {
   return (
-    <Context.Provider value={{ unies }}>
+    <Context.Provider value={{ universities }}>
       <Universities />
     </Context.Provider>
   );
 }
 
 export async function getStaticProps() {
-  const res = await fetch(`${process.env.SERVICE_HOST}/universities`);
-  const unies: University = await res.json();
-
+  const universities: University[] = [];
+  await findData({data: universities, collectionName: "universities"})
   return {
-    props: {unies},
+    props: { universities },
   };
 }

@@ -1,1 +1,0 @@
-type Crud = "get" | "delete";

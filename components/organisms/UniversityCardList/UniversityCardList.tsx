@@ -11,7 +11,7 @@ export default function UniversityCardList(): JSX.Element {
   return (
     <div className={styles.container}>
       <ul className={styles.content}>
-        {context.unies.map((uni: any) => (
+        {context.universities.map((uni: any) => (
           <li key={uni.id}>
             <UniversityCard
               src={`/uni_avatars/${uni.img}`}
