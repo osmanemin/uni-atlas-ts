@@ -7,7 +7,6 @@ import { UniversityContext } from "../../../storage/Context";
 import { Position, Since, UniType } from "../../atoms/icons/index";
 import Summary from "../../molecules/Summary/Summary";
 import SummaryUniData from "../../molecules/SummaryUniData/SummaryUniData";
-import Image from "next/image";
 
 export default function UniversityDetail(): JSX.Element {
   const context = useContext(UniversityContext);
@@ -18,7 +17,7 @@ export default function UniversityDetail(): JSX.Element {
     >
       {/* <BgMaster classBg={styles.bgImage} /> */}
       <div className={styles.navi}>
-        <Image
+        <img
           className={styles.img}
           src={`/uni_avatars/${context.university.img}`}
           alt={context.university.uniName}
