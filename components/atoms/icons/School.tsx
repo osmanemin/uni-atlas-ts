@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function SvgSchool(props) {
+function SvgSchool(props: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

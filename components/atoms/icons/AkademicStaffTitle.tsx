@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function SvgAkademicStaffTitle(props) {
+function SvgAkademicStaffTitle(props: any) {
   return (
     <svg xmlns="http://www.w3.org/2000/svg" width={209} height={92} {...props}>
       <g data-name="Group 82">
