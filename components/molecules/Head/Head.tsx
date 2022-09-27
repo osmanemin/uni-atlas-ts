@@ -5,9 +5,6 @@ export default function Header({ title = "Uni Atlas" }): JSX.Element {
   return (
     <Head>
       <title>{title}</title>
-      <link href="https://fonts.googleapis.com/css?family=Poppins" />
-      <link href="https://fonts.googleapis.com/css?family=Dancing+Script" />
-      <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       <meta
         name="description"
         content="Üniversiteleri karşılaştırmanın en iyi yolu"

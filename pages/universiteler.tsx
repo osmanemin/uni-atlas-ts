@@ -18,7 +18,7 @@ export default function Universitelerr({ universities }: UniversitelerProps) {
 
 export async function getStaticProps() {
   const universities: University[] = [];
-  await findData({data: universities, collectionName: "universities"})
+  await findData({data: universities, collectionName: "universities", sort: {name: "1"}})
   return {
     props: { universities },
   };

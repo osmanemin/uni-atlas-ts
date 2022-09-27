@@ -10,6 +10,7 @@ import CompareMenu from "../../molecules/CompareMenu/CompareMenu";
 import MasterComponent from "../MasterComponent/MasterComponent";
 import GraphOfReport from "../../organisms/GraphOfReport/GraphOfReport";
 import { Context } from "../../../storage/Context";
+import Image from "next/image";
 
 export default function MarketReport(): JSX.Element {
   const context = useContext(Context);
@@ -34,7 +35,7 @@ export default function MarketReport(): JSX.Element {
       <CompareReport>
         <CompareMenu />
         <div className={styles.flexCenter}>
-          <img
+          <Image
             className={styles.img}
             src="/analyze.jpg"
             alt="bölüm karşılaştırma"

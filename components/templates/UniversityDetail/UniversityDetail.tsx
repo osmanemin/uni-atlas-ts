@@ -7,6 +7,7 @@ import { UniversityContext } from "../../../storage/Context";
 import { Position, Since, UniType } from "../../atoms/icons/index";
 import Summary from "../../molecules/Summary/Summary";
 import SummaryUniData from "../../molecules/SummaryUniData/SummaryUniData";
+import Image from "next/image";
 
 export default function UniversityDetail(): JSX.Element {
   const context = useContext(UniversityContext);
@@ -17,7 +18,7 @@ export default function UniversityDetail(): JSX.Element {
     >
       {/* <BgMaster classBg={styles.bgImage} /> */}
       <div className={styles.navi}>
-        <img
+        <Image
           className={styles.img}
           src={`/uni_avatars/${context.university.img}`}
           alt={context.university.uniName}
@@ -26,7 +27,7 @@ export default function UniversityDetail(): JSX.Element {
         <h3 className={styles.naviTitle}>Bölümler</h3>
         <h3 className={styles.naviTitle}>İletişim</h3>
         <h3 className={styles.naviTitle}>Galeri</h3>
-        <a href={"http://www." + context.university.web} target="_blank">
+        <a href={"http://www." + context.university.web} target="_blank" rel="noreferrer">
           <h3 className={cn(styles.naviTitle, styles.naviGoTo)}>Siteye git</h3>
         </a>
       </div>
