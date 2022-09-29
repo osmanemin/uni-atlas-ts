@@ -1,1 +1,2 @@
-export * from "./GraphOfReport"
+import GraphOfReport from "./GraphOfReport";
+export default GraphOfReport;

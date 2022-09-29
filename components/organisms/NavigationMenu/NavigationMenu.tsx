@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./navigationMenu.module.scss";
 
-import MenuButton from "../../molecules/MenuButton/MenuButton";
+import MenuButton from "../../molecules/MenuButton";
 import * as Icons from "../../atoms/icons";
 
 export default function NavigationMenu(): JSX.Element {

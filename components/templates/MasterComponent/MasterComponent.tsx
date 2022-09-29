@@ -2,9 +2,9 @@ import React from "react";
 
 import styles from "./masterComponent.module.scss";
 
-import BgMaster from "../../organisms/BgMaster/BgMaster";
-import MasterNavigation from "../../organisms/MasterNavigation/MasterNavigation";
-import { Head } from "../../molecules/Head";
+import BgMaster from "../../organisms/BgMaster";
+import MasterNavigation from "../../organisms/MasterNavigation";
+import Head from "../../molecules/Head";
 
 type MasterComponentProps = {
   children: JSX.Element[];

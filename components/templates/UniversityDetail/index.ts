@@ -1,1 +1,2 @@
-export * from "./UniversityDetail"
+import UniversityDetail from "./UniversityDetail";
+export default UniversityDetail;

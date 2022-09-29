@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 
 import styles from "./analyzeFilter.module.scss";
 
-import FilterInput from "../../molecules/FilterInput/FilterInput";
+import FilterInput from "../../molecules/FilterInput";
 import { Context } from "../../../storage/Context";
 
 export default function AnalyzeFilter(): JSX.Element {

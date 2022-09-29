@@ -1,1 +1,2 @@
-export * from "./Universities"
+import Universities from "./Universities";
+export default Universities;

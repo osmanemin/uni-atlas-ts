@@ -1,1 +1,2 @@
-export * from "./CompareMenu"
+import CompareMenu from "./CompareMenu";
+export default CompareMenu;

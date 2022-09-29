@@ -1,1 +1,2 @@
-export * from "./MasterComponent"
+import MasterComponent from "./MasterComponent"
+export default MasterComponent

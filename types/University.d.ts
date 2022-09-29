@@ -9,6 +9,6 @@ type University = {
     slug: string;
     tel: string;
     type: string;
-    uniName: string;
+    name: string;
     web: string;
 }

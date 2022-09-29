@@ -1,1 +1,2 @@
-export * from "./UniversityCard"
+import UniversityCard from "./UniversityCard";
+export default UniversityCard;

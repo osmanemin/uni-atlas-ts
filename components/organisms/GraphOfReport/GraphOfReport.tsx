@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./graphOfReport.module.scss";
 
-import ColumnOfGraph from "../../molecules/ColumnOfGraph/ColumnOfGraph";
+import ColumnOfGraph from "../../molecules/ColumnOfGraph";
 
 type GraphOfReportProps = {
   data: any;

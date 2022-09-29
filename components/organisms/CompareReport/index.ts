@@ -1,1 +1,2 @@
-export * from "./CompareReport"
+import CompareReport from "./CompareReport";
+export default CompareReport;

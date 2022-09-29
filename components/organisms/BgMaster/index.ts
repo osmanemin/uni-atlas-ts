@@ -1,1 +1,2 @@
-export * from "./BgMaster";
+import BgMaster from "./BgMaster";
+export default BgMaster;

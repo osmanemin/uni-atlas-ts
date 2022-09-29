@@ -1,1 +1,2 @@
-export * from "./Slogan"
+import Slogan from "./Slogan";
+export default Slogan;

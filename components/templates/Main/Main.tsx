@@ -2,10 +2,10 @@ import React from "react";
 
 import styles from "./main.module.scss";
 
-import NavigationMenu from "../../organisms/NavigationMenu/NavigationMenu";
-import UniAtlas from "../../molecules/UniAtlas/UniAtlas";
-import Slogan from "../../molecules/Slogan/Slogan";
-import UniFinder from "../../organisms/UniFinder/UniFinder";
+import NavigationMenu from "../../organisms/NavigationMenu";
+import UniAtlas from "../../molecules/UniAtlas";
+import Slogan from "../../molecules/Slogan";
+import UniFinder from "../../organisms/UniFinder";
 
 export default function Main(): JSX.Element {
   return (

@@ -1,13 +1,13 @@
 import React from "react";
-import ArrowRightButton from "../../atoms/ArrowRigthButton/ArrowRightButton";
+import ArrowRightButton from "../../atoms/ArrowRigthButton";
 
 import styles from "./favoriteUniversityCard.module.scss";
 
 type FavoriteUniversityCardProps = {
-  uniName: string;
+  name: string;
 };
 export default function FavoriteUniversityCard({
-  uniName,
+  name,
 }: FavoriteUniversityCardProps): JSX.Element {
   return (
     <div
@@ -15,7 +15,7 @@ export default function FavoriteUniversityCard({
       style={{ backgroundImage: "url(/favoriteUnies/favoriteUni.jpg)" }}
     >
       <div className={styles.linearGradientTop} />
-      <h2 className={styles.title}>{uniName}</h2>
+      <h2 className={styles.title}>{name}</h2>
       <div className={styles.star}></div>
       <div className={styles.linearGradientBottom} />
       <ArrowRightButton className={styles.goToUniversity} />

@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./masterNavigation.module.scss";
 
-import UniAtlas from "../../molecules/UniAtlas/UniAtlas";
+import UniAtlas from "../../molecules/UniAtlas";
 
 type MasterNavigationProps = {
   title: string;

@@ -1,1 +1,2 @@
-export * from "./AnalyzeFilter"
+import AnalyzeFilter from "./AnalyzeFilter";
+export default AnalyzeFilter;

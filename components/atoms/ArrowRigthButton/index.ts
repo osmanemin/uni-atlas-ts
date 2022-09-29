@@ -1,1 +1,2 @@
-export * from "./ArrowRightButton"
+import ArrowRightButton from "./ArrowRightButton";
+export default ArrowRightButton;

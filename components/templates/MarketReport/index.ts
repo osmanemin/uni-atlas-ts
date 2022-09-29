@@ -1,1 +1,2 @@
-export * from "./MarketReport"
+import MarketReport from "./MarketReport";
+export default MarketReport;

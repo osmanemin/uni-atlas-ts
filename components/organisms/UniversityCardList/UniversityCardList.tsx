@@ -3,7 +3,7 @@ import React, { useContext } from "react";
 import styles from "./universityCardList.module.scss";
 
 import { Context } from "../../../storage/Context";
-import UniversityCard from "../../molecules/UniversityCard/UniversityCard";
+import UniversityCard from "../../molecules/UniversityCard";
 
 export default function UniversityCardList(): JSX.Element {
   const context = useContext(Context);
@@ -14,8 +14,8 @@ export default function UniversityCardList(): JSX.Element {
         {context.universities.map((uni: any) => (
           <li key={uni.id}>
             <UniversityCard
-              src={`/uni_avatars/${uni.img}`}
-              uniName={uni.uniName}
+              src={uni.img}
+              name={uni.name}
               city={uni.city}
               slug={uni.slug}
             />

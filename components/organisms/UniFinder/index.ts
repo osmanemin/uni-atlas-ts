@@ -1,1 +1,2 @@
-export * from "./UniFinder"
+import UniFinder from "./UniFinder";
+export default UniFinder;

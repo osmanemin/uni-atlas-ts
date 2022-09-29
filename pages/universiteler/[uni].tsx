@@ -1,7 +1,7 @@
 import React from "react";
 import findData from "../../api/fiind";
 
-import { Head } from "../../components/molecules/Head";
+import Head from "../../components/molecules/Head";
 import UniversityDetail from "../../components/templates/UniversityDetail/UniversityDetail";
 import { UniversityContext } from "../../storage/Context";
 

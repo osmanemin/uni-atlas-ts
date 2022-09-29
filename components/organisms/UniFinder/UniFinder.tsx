@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./uniFinder.module.scss";
 
-import FilterInput from "../../molecules/FilterInput/FilterInput";
+import FilterInput from "../../molecules/FilterInput";
 import * as Icons from "../../atoms/icons";
 
 export default function UniversiteSihirbazi(): JSX.Element {

@@ -1,1 +1,2 @@
-export * from "./MasterNavigation"
+import MasterNavigation from "./MasterNavigation";
+export default MasterNavigation;

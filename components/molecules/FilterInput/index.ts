@@ -1,1 +1,2 @@
-export * from "./FilterInput"
+import FilterInput from "./FilterInput";
+export default FilterInput;

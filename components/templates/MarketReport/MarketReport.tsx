@@ -2,13 +2,13 @@ import React, { useContext } from "react";
 
 import styles from "./marketReport.module.scss";
 
-import AnalyzeFilter from "../../organisms/AnalyzeFilter/AnalyzeFilter";
-import ScrollBottom from "../../molecules/ScrollButton/ScrollBottom";
-import Summary from "../../molecules/Summary/Summary";
-import CompareReport from "../../organisms/CompareReport/CompareReport";
-import CompareMenu from "../../molecules/CompareMenu/CompareMenu";
-import MasterComponent from "../MasterComponent/MasterComponent";
-import GraphOfReport from "../../organisms/GraphOfReport/GraphOfReport";
+import AnalyzeFilter from "../../organisms/AnalyzeFilter";
+import ScrollBottom from "../../molecules/ScrollButton";
+import Summary from "../../molecules/Summary";
+import CompareReport from "../../organisms/CompareReport";
+import CompareMenu from "../../molecules/CompareMenu";
+import MasterComponent from "../MasterComponent";
+import GraphOfReport from "../../organisms/GraphOfReport";
 import { Context } from "../../../storage/Context";
 
 export default function MarketReport(): JSX.Element {

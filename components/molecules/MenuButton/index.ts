@@ -1,1 +1,2 @@
-export * from "./MenuButton"
+import MenuButton from "./MenuButton";
+export default MenuButton;

@@ -1,1 +1,2 @@
-export * from "./SummaryUniData"
+import SummaryUniData from "./SummaryUniData";
+export default SummaryUniData;

@@ -5,9 +5,14 @@ const Document = () => {
   return (
     <Html>
       <Head>
-        <link href="https://fonts.googleapis.com/css?family=Poppins&display=optional" />
-        <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=optional" />
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Poppins&display=optional"
+        />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Dancing+Script&display=optional"
+        />
       </Head>
       <body>
         <Main />
