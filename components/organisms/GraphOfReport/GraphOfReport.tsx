@@ -9,7 +9,7 @@ type GraphOfReportProps = {
 };
 export default function GraphOfReport({
   data,
-}: GraphOfReportProps): JSX.Element {
+}: GraphOfReportProps): JSX.Element | null {
   return (
     <div className={styles.container}>
       <div className={styles.background}>
@@ -31,13 +31,17 @@ export default function GraphOfReport({
         </div>
       </div>
       <div className={styles.content}>
-        {data.EmploymentTimeDistributionRate.map((rate: any, index: number) => (
-          <ColumnOfGraph
-            percent={rate}
-            key={index}
-            title={data.EmploymentTimeDistributionTitle[index]}
-          />
-        ))}
+        {((data && data.EmploymentTimeDistributionRate) || ["0", "0", "0", "0"]).map(
+          (rate: any, index: number) => (
+            <ColumnOfGraph
+              percent={rate}
+              key={index}
+              title={
+                (data && data.EmploymentTimeDistributionTitle[index]) || ""
+              }
+            />
+          )
+        )}
       </div>
     </div>
   );

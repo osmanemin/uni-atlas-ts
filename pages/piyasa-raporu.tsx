@@ -4,9 +4,9 @@ import findData from "../api/fiind";
 import MarketReport from "../components/templates/MarketReport/MarketReport";
 import { Context } from "../storage/Context";
 
-export default function PiyasaReport(reports: Report[]) {
+export default function PiyasaReport({reports}: {reports :Report[]}) {
   const [selectedDepartments, setSelectedDepartments] = useState({
-    first: 0,
+    first: -1,
     second: "",
   });
 
@@ -32,6 +32,6 @@ export async function getStaticProps() {
   const reports: Report[] = [];
   await findData({ data: reports, collectionName: "reports" });
   return {
-    props: { reports },
+    props: {reports: reports} ,
   };
 }

@@ -4,7 +4,7 @@ import styles from "./columnOfGraph.module.scss";
 
 type ColumnOfGraphProps = {
   percent: string;
-  title: string;
+  title?: string;
 };
 
 export default function ColumnOfGraph({
