@@ -6,10 +6,13 @@ import ColumnOfGraph from "../../molecules/ColumnOfGraph";
 
 type GraphOfReportProps = {
   data: any;
+  indicatorType: string;
 };
 export default function GraphOfReport({
   data,
+  indicatorType,
 }: GraphOfReportProps): JSX.Element | null {
+  console.log('indicatorType', indicatorType)
   return (
     <div className={styles.container}>
       <div className={styles.background}>
@@ -31,13 +34,13 @@ export default function GraphOfReport({
         </div>
       </div>
       <div className={styles.content}>
-        {((data && data.EmploymentTimeDistributionRate) || ["0", "0", "0", "0"]).map(
+        {((data && data[`${indicatorType}Rate`]) || ["0", "0", "0", "0"]).map(
           (rate: any, index: number) => (
             <ColumnOfGraph
               percent={rate}
               key={index}
               title={
-                (data && data.EmploymentTimeDistributionTitle[index]) || ""
+                (data && data[`${indicatorType}Title`][index]) || ""
               }
             />
           )

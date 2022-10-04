@@ -13,6 +13,7 @@ const findAll = async ({
     .db(process.env.DB_NAME || "")
     .collection(collectionName)
     .find(query)
+    .collation({ locale: "tr" })
     .sort(sort);
   await cursor.forEach((doc: any) => {
     delete doc._id;

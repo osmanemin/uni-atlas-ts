@@ -7,7 +7,8 @@ import { Context } from "../storage/Context";
 export default function PiyasaReport({reports}: {reports :Report[]}) {
   const [selectedDepartments, setSelectedDepartments] = useState({
     first: -1,
-    second: "",
+    second: -1,
+    indicatorType: ""
   });
 
   const [maxSelectedDepartmentCount, setMaxSelectedDepartmentCount] =
@@ -30,7 +31,7 @@ export default function PiyasaReport({reports}: {reports :Report[]}) {
 
 export async function getStaticProps() {
   const reports: Report[] = [];
-  await findAll({ data: reports, collectionName: "reports" });
+  await findAll({ data: reports, collectionName: "reports", sort: {title: "1"} });
   return {
     props: {reports: reports} ,
   };
