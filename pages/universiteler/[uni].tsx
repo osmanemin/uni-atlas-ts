@@ -1,5 +1,6 @@
 import React from "react";
-import findData from "../../api/fiind";
+import findAll from "../../api/findAll";
+import findOne from "../../api/findOne";
 
 import Head from "../../components/molecules/Head";
 import UniversityDetail from "../../components/templates/UniversityDetail/UniversityDetail";
@@ -15,8 +16,8 @@ export default function Uni(university: University) {
 }
 
 export async function getStaticPaths() {
-  const universities: University[] = [];
-  await findData({data: universities, collectionName: "universities"})
+  const universities: UniversityDetail[] = [];
+  await findAll({ data: universities, collectionName: "universities" });
   const paths = universities.map((uni) => ({
     params: {
       uni: uni.slug,
@@ -26,10 +27,35 @@ export async function getStaticPaths() {
   return { paths, fallback: false };
 }
 
-export async function getStaticProps(params: {params: { uni: string }}) {
-  const universities: University[] = [];
-  await findData({data: universities, collectionName: "universities", query: {slug: params.params.uni}})
-  const university: University = universities[0];
+export async function getStaticProps(params: { params: { uni: string } }) {
+  const universities: UniversityDetail = await findOne({
+    collectionName: "universities",
+    query: { slug: params.params.uni },
+  });
+
+  const students: StudentOfUniversity[] = [];
+  await findAll({
+    data: students,
+    collectionName: "students",
+    query: { slug: params.params.uni },
+  });
+
+  const programs: ProgramOfUniversity = await findOne({
+    collectionName: "programs",
+    query: { slug: params.params.uni },
+  });
+
+  const academicians: AcademicianOfUniversity = await findOne({
+    collectionName: "academicians",
+    query: { slug: params.params.uni },
+  });
+
+  const university: University = {
+    ...universities,
+    programs: programs,
+    students,
+    academicians,
+  };
   return {
     props: { university },
   };

@@ -1,14 +1,5 @@
-type University = {
-    _id: string;
-    city: string;
-    date: string;
-    id: string;
-    img: string;
-    mail: string;
-    rektor: string;
-    slug: string;
-    tel: string;
-    type: string;
-    name: string;
-    web: string;
-}
+interface University extends UniversityDetail {
+  students: StudentOfUniversity[];
+  programs: ProgramOfUniversity;
+  academicians: AcademicianOfUniversity;
+};

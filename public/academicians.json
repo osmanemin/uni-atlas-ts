@@ -1,0 +1,2023 @@
+[
+    {
+      "assistant": 95,
+      "associateProfessor": 14,
+      "doctor": 65,
+      "lecturer": 72,
+      "professor": 12,
+      "slug": "abdullah-gul-universitesi",
+      "total": 258,
+      "name": "Abdullah Gül Üniversitesi"
+    },
+    {
+      "assistant": 82,
+      "associateProfessor": 77,
+      "doctor": 115,
+      "lecturer": 88,
+      "professor": 162,
+      "slug": "acibadem-mehmet-ali-aydinlar-universitesi",
+      "total": 524,
+      "name": "Acıbadem Mehmet Ali Aydınlar Üniversitesi"
+    },
+    {
+      "assistant": 160,
+      "associateProfessor": 28,
+      "doctor": 115,
+      "lecturer": 75,
+      "professor": 22,
+      "slug": "adana-alparslan-turkes-bilim-ve-teknoloji-universitesi",
+      "total": 400,
+      "name": "Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi"
+    },
+    {
+      "assistant": 304,
+      "associateProfessor": 102,
+      "doctor": 261,
+      "lecturer": 182,
+      "professor": 75,
+      "slug": "adiyaman-universitesi",
+      "total": 924,
+      "name": "Adıyaman Üniversitesi"
+    },
+    {
+      "assistant": 215,
+      "associateProfessor": 94,
+      "doctor": 262,
+      "lecturer": 322,
+      "professor": 148,
+      "slug": "afyon-kocatepe-universitesi",
+      "total": 1041,
+      "name": "Afyon Kocatepe Üniversitesi"
+    },
+    {
+      "assistant": 220,
+      "associateProfessor": 35,
+      "doctor": 150,
+      "lecturer": 75,
+      "professor": 43,
+      "slug": "afyonkarahisar-saglik-bilimleri-universitesi",
+      "total": 523,
+      "name": "Afyonkarahisar Sağlık Bilimleri Üniversitesi"
+    },
+    {
+      "assistant": 118,
+      "associateProfessor": 61,
+      "doctor": 152,
+      "lecturer": 157,
+      "professor": 19,
+      "slug": "agri-ibrahim-cecen-universitesi",
+      "total": 507,
+      "name": "Ağrı İbrahim Çeçen Üniversitesi"
+    },
+    {
+      "assistant": 817,
+      "associateProfessor": 312,
+      "doctor": 513,
+      "lecturer": 695,
+      "professor": 534,
+      "slug": "akdeniz-universitesi",
+      "total": 2871,
+      "name": "Akdeniz Üniversitesi"
+    },
+    {
+      "assistant": 174,
+      "associateProfessor": 105,
+      "doctor": 286,
+      "lecturer": 198,
+      "professor": 104,
+      "slug": "aksaray-universitesi",
+      "total": 867,
+      "name": "Aksaray Üniversitesi"
+    },
+    {
+      "assistant": 66,
+      "associateProfessor": 48,
+      "doctor": 173,
+      "lecturer": 147,
+      "professor": 43,
+      "slug": "alanya-alaaddin-keykubat-universitesi",
+      "total": 477,
+      "name": "Alanya Alaaddin Keykubat Üniversitesi"
+    },
+    {
+      "assistant": 6,
+      "associateProfessor": 1,
+      "doctor": 18,
+      "lecturer": 7,
+      "professor": 7,
+      "slug": "alanya-hamdullah-emin-pasa-universitesi",
+      "total": 39,
+      "name": "Alanya Hamdullah Emin Paşa Üniversitesi"
+    },
+    {
+      "assistant": 81,
+      "associateProfessor": 28,
+      "doctor": 153,
+      "lecturer": 98,
+      "professor": 69,
+      "slug": "altinbas-universitesi",
+      "total": 429,
+      "name": "Altınbaş Üniversitesi"
+    },
+    {
+      "assistant": 154,
+      "associateProfessor": 66,
+      "doctor": 215,
+      "lecturer": 198,
+      "professor": 43,
+      "slug": "amasya-universitesi",
+      "total": 676,
+      "name": "Amasya Üniversitesi"
+    },
+    {
+      "assistant": 217,
+      "associateProfessor": 180,
+      "doctor": 274,
+      "lecturer": 540,
+      "professor": 313,
+      "slug": "anadolu-universitesi",
+      "total": 1524,
+      "name": "Anadolu Üniversitesi"
+    },
+    {
+      "assistant": 256,
+      "associateProfessor": 162,
+      "doctor": 183,
+      "lecturer": 160,
+      "professor": 275,
+      "slug": "ankara-haci-bayram-veli-universitesi",
+      "total": 1036,
+      "name": "Ankara Hacı Bayram Veli Üniversitesi"
+    },
+    {
+      "assistant": 17,
+      "associateProfessor": 5,
+      "doctor": 107,
+      "lecturer": 80,
+      "professor": 12,
+      "slug": "ankara-medipol-universitesi",
+      "total": 221,
+      "name": "Ankara Medipol Üniversitesi"
+    },
+    {
+      "assistant": 12,
+      "associateProfessor": 9,
+      "doctor": 27,
+      "lecturer": 11,
+      "professor": 7,
+      "slug": "ankara-muzik-ve-guzel-sanatlar-universitesi",
+      "total": 66,
+      "name": "Ankara Müzik Ve Güzel Sanatlar Üniversitesi"
+    },
+    {
+      "assistant": 83,
+      "associateProfessor": 28,
+      "doctor": 86,
+      "lecturer": 74,
+      "professor": 53,
+      "slug": "ankara-sosyal-bilimler-universitesi",
+      "total": 324,
+      "name": "Ankara Sosyal Bilimler Üniversitesi"
+    },
+    {
+      "assistant": 1221,
+      "associateProfessor": 360,
+      "doctor": 290,
+      "lecturer": 688,
+      "professor": 1134,
+      "slug": "ankara-universitesi",
+      "total": 3693,
+      "name": "Ankara Üniversitesi"
+    },
+    {
+      "assistant": 377,
+      "associateProfessor": 191,
+      "doctor": 267,
+      "lecturer": 245,
+      "professor": 275,
+      "slug": "ankara-yildirim-beyazit-universitesi",
+      "total": 1355,
+      "name": "Ankara Yıldırım Beyazıt Üniversitesi"
+    },
+    {
+      "assistant": 8,
+      "associateProfessor": 1,
+      "doctor": 20,
+      "lecturer": 37,
+      "professor": 7,
+      "slug": "antalya-akev-universitesi",
+      "total": 73,
+      "name": "Antalya Akev Üniversitesi"
+    },
+    {
+      "assistant": 34,
+      "associateProfessor": 11,
+      "doctor": 93,
+      "lecturer": 67,
+      "professor": 34,
+      "slug": "antalya-bilim-universitesi",
+      "total": 239,
+      "name": "Antalya Bilim Üniversitesi"
+    },
+    {
+      "assistant": 102,
+      "associateProfessor": 21,
+      "doctor": 97,
+      "lecturer": 129,
+      "professor": 19,
+      "slug": "ardahan-universitesi",
+      "total": 368,
+      "name": "Ardahan Üniversitesi"
+    },
+    {
+      "assistant": 134,
+      "associateProfessor": 47,
+      "doctor": 158,
+      "lecturer": 195,
+      "professor": 21,
+      "slug": "artvin-coruh-universitesi",
+      "total": 555,
+      "name": "Artvin Çoruh Üniversitesi"
+    },
+    {
+      "assistant": 0,
+      "associateProfessor": 0,
+      "doctor": 0,
+      "lecturer": 22,
+      "professor": 1,
+      "slug": "atasehir-adiguzel-meslek-yuksekokulu",
+      "total": 23,
+      "name": "Ataşehir Adıgüzel Meslek Yüksekokulu"
+    },
+    {
+      "assistant": 880,
+      "associateProfessor": 371,
+      "doctor": 596,
+      "lecturer": 313,
+      "professor": 630,
+      "slug": "ataturk-universitesi",
+      "total": 2790,
+      "name": "Atatürk Üniversitesi"
+    },
+    {
+      "assistant": 113,
+      "associateProfessor": 39,
+      "doctor": 137,
+      "lecturer": 131,
+      "professor": 92,
+      "slug": "atilim-universitesi",
+      "total": 512,
+      "name": "Atılım Üniversitesi"
+    },
+    {
+      "assistant": 32,
+      "associateProfessor": 3,
+      "doctor": 72,
+      "lecturer": 96,
+      "professor": 31,
+      "slug": "avrasya-universitesi",
+      "total": 234,
+      "name": "Avrasya Üniversitesi"
+    },
+    {
+      "assistant": 533,
+      "associateProfessor": 212,
+      "doctor": 372,
+      "lecturer": 397,
+      "professor": 354,
+      "slug": "aydin-adnan-menderes-universitesi",
+      "total": 1868,
+      "name": "Aydın Adnan Menderes Üniversitesi"
+    },
+    {
+      "assistant": 98,
+      "associateProfessor": 90,
+      "doctor": 262,
+      "lecturer": 180,
+      "professor": 115,
+      "slug": "bahcesehir-universitesi",
+      "total": 745,
+      "name": "Bahçeşehir Üniversitesi"
+    },
+    {
+      "assistant": 311,
+      "associateProfessor": 141,
+      "doctor": 286,
+      "lecturer": 249,
+      "professor": 202,
+      "slug": "balikesir-universitesi",
+      "total": 1189,
+      "name": "Balıkesir Üniversitesi"
+    },
+    {
+      "assistant": 106,
+      "associateProfessor": 46,
+      "doctor": 151,
+      "lecturer": 110,
+      "professor": 40,
+      "slug": "bandirma-onyedi-eylul-universitesi",
+      "total": 453,
+      "name": "Bandırma Onyedi Eylül Üniversitesi"
+    },
+    {
+      "assistant": 172,
+      "associateProfessor": 91,
+      "doctor": 191,
+      "lecturer": 165,
+      "professor": 36,
+      "slug": "bartin-universitesi",
+      "total": 655,
+      "name": "Bartın Üniversitesi"
+    },
+    {
+      "assistant": 349,
+      "associateProfessor": 168,
+      "doctor": 317,
+      "lecturer": 404,
+      "professor": 387,
+      "slug": "baskent-universitesi",
+      "total": 1625,
+      "name": "Başkent Üniversitesi"
+    },
+    {
+      "assistant": 93,
+      "associateProfessor": 26,
+      "doctor": 176,
+      "lecturer": 111,
+      "professor": 34,
+      "slug": "batman-universitesi",
+      "total": 440,
+      "name": "Batman Üniversitesi"
+    },
+    {
+      "assistant": 97,
+      "associateProfessor": 34,
+      "doctor": 153,
+      "lecturer": 149,
+      "professor": 7,
+      "slug": "bayburt-universitesi",
+      "total": 440,
+      "name": "Bayburt Üniversitesi"
+    },
+    {
+      "assistant": 164,
+      "associateProfessor": 44,
+      "doctor": 363,
+      "lecturer": 203,
+      "professor": 107,
+      "slug": "beykent-universitesi",
+      "total": 881,
+      "name": "Beykent Üniversitesi"
+    },
+    {
+      "assistant": 20,
+      "associateProfessor": 9,
+      "doctor": 61,
+      "lecturer": 56,
+      "professor": 22,
+      "slug": "beykoz-universitesi",
+      "total": 168,
+      "name": "Beykoz Üniversitesi"
+    },
+    {
+      "assistant": 373,
+      "associateProfessor": 58,
+      "doctor": 98,
+      "lecturer": 62,
+      "professor": 90,
+      "slug": "bezm-i-alem-vakif-universitesi",
+      "total": 681,
+      "name": "Bezm-İ Âlem Vakıf Üniversitesi"
+    },
+    {
+      "assistant": 107,
+      "associateProfessor": 60,
+      "doctor": 193,
+      "lecturer": 237,
+      "professor": 47,
+      "slug": "bilecik-seyh-edebali-universitesi",
+      "total": 644,
+      "name": "Bilecik Şeyh Edebali Üniversitesi"
+    },
+    {
+      "assistant": 195,
+      "associateProfessor": 35,
+      "doctor": 210,
+      "lecturer": 222,
+      "professor": 45,
+      "slug": "bingol-universitesi",
+      "total": 707,
+      "name": "Bingöl Üniversitesi"
+    },
+    {
+      "assistant": 40,
+      "associateProfessor": 25,
+      "doctor": 167,
+      "lecturer": 56,
+      "professor": 100,
+      "slug": "biruni-universitesi",
+      "total": 388,
+      "name": "Biruni Üniversitesi"
+    },
+    {
+      "assistant": 144,
+      "associateProfessor": 43,
+      "doctor": 92,
+      "lecturer": 177,
+      "professor": 18,
+      "slug": "bitlis-eren-universitesi",
+      "total": 474,
+      "name": "Bitlis Eren Üniversitesi"
+    },
+    {
+      "assistant": 285,
+      "associateProfessor": 116,
+      "doctor": 174,
+      "lecturer": 215,
+      "professor": 201,
+      "slug": "bogazici-universitesi",
+      "total": 991,
+      "name": "Boğaziçi Üniversitesi"
+    },
+    {
+      "assistant": 515,
+      "associateProfessor": 158,
+      "doctor": 367,
+      "lecturer": 266,
+      "professor": 218,
+      "slug": "bolu-abant-izzet-baysal-universitesi",
+      "total": 1524,
+      "name": "Bolu Abant İzzet Baysal Üniversitesi"
+    },
+    {
+      "assistant": 168,
+      "associateProfessor": 114,
+      "doctor": 305,
+      "lecturer": 335,
+      "professor": 109,
+      "slug": "burdur-mehmet-akif-ersoy-universitesi",
+      "total": 1031,
+      "name": "Burdur Mehmet Akif Ersoy Üniversitesi"
+    },
+    {
+      "assistant": 171,
+      "associateProfessor": 35,
+      "doctor": 131,
+      "lecturer": 80,
+      "professor": 48,
+      "slug": "bursa-teknik-universitesi",
+      "total": 465,
+      "name": "Bursa Teknik Üniversitesi"
+    },
+    {
+      "assistant": 829,
+      "associateProfessor": 308,
+      "doctor": 247,
+      "lecturer": 605,
+      "professor": 616,
+      "slug": "bursa-uludag-universitesi",
+      "total": 2605,
+      "name": "Bursa Uludağ Üniversitesi"
+    },
+    {
+      "assistant": 36,
+      "associateProfessor": 7,
+      "doctor": 33,
+      "lecturer": 102,
+      "professor": 20,
+      "slug": "cag-universitesi",
+      "total": 198,
+      "name": "Çağ Üniversitesi"
+    },
+    {
+      "assistant": 474,
+      "associateProfessor": 231,
+      "doctor": 550,
+      "lecturer": 444,
+      "professor": 278,
+      "slug": "canakkale-onsekiz-mart-universitesi",
+      "total": 1977,
+      "name": "Çanakkale Onsekiz Mart Üniversitesi"
+    },
+    {
+      "assistant": 41,
+      "associateProfessor": 33,
+      "doctor": 95,
+      "lecturer": 100,
+      "professor": 51,
+      "slug": "cankaya-universitesi",
+      "total": 320,
+      "name": "Çankaya Üniversitesi"
+    },
+    {
+      "assistant": 215,
+      "associateProfessor": 56,
+      "doctor": 239,
+      "lecturer": 172,
+      "professor": 44,
+      "slug": "cankiri-karatekin-universitesi",
+      "total": 726,
+      "name": "Çankırı Karatekin Üniversitesi"
+    },
+    {
+      "assistant": 782,
+      "associateProfessor": 219,
+      "doctor": 304,
+      "lecturer": 452,
+      "professor": 542,
+      "slug": "cukurova-universitesi",
+      "total": 2299,
+      "name": "Çukurova Üniversitesi"
+    },
+    {
+      "assistant": 12,
+      "associateProfessor": 24,
+      "doctor": 67,
+      "lecturer": 20,
+      "professor": 50,
+      "slug": "demiroglu-bilim-universitesi",
+      "total": 173,
+      "name": "Demiroğlu Bilim Üniversitesi"
+    },
+    {
+      "assistant": 803,
+      "associateProfessor": 164,
+      "doctor": 305,
+      "lecturer": 264,
+      "professor": 302,
+      "slug": "dicle-universitesi",
+      "total": 1838,
+      "name": "Dicle Üniversitesi"
+    },
+    {
+      "assistant": 77,
+      "associateProfessor": 18,
+      "doctor": 126,
+      "lecturer": 138,
+      "professor": 46,
+      "slug": "dogus-universitesi",
+      "total": 405,
+      "name": "Doğuş Üniversitesi"
+    },
+    {
+      "assistant": 1008,
+      "associateProfessor": 362,
+      "doctor": 499,
+      "lecturer": 700,
+      "professor": 731,
+      "slug": "dokuz-eylul-universitesi",
+      "total": 3300,
+      "name": "Dokuz Eylül Üniversitesi"
+    },
+    {
+      "assistant": 399,
+      "associateProfessor": 128,
+      "doctor": 322,
+      "lecturer": 282,
+      "professor": 135,
+      "slug": "duzce-universitesi",
+      "total": 1266,
+      "name": "Düzce Üniversitesi"
+    },
+    {
+      "assistant": 1044,
+      "associateProfessor": 368,
+      "doctor": 374,
+      "lecturer": 562,
+      "professor": 891,
+      "slug": "ege-universitesi",
+      "total": 3239,
+      "name": "Ege Üniversitesi"
+    },
+    {
+      "assistant": 818,
+      "associateProfessor": 213,
+      "doctor": 432,
+      "lecturer": 321,
+      "professor": 477,
+      "slug": "erciyes-universitesi",
+      "total": 2261,
+      "name": "Erciyes Üniversitesi"
+    },
+    {
+      "assistant": 335,
+      "associateProfessor": 118,
+      "doctor": 333,
+      "lecturer": 234,
+      "professor": 84,
+      "slug": "erzincan-binali-yildirim-universitesi",
+      "total": 1104,
+      "name": "Erzincan Binali Yıldırım Üniversitesi"
+    },
+    {
+      "assistant": 147,
+      "associateProfessor": 33,
+      "doctor": 93,
+      "lecturer": 32,
+      "professor": 17,
+      "slug": "erzurum-teknik-universitesi",
+      "total": 322,
+      "name": "Erzurum Teknik Üniversitesi"
+    },
+    {
+      "assistant": 710,
+      "associateProfessor": 174,
+      "doctor": 314,
+      "lecturer": 209,
+      "professor": 363,
+      "slug": "eskisehir-osmangazi-universitesi",
+      "total": 1770,
+      "name": "Eskişehir Osmangazi Üniversitesi"
+    },
+    {
+      "assistant": 138,
+      "associateProfessor": 76,
+      "doctor": 174,
+      "lecturer": 121,
+      "professor": 164,
+      "slug": "eskisehir-teknik-universitesi",
+      "total": 673,
+      "name": "Eskişehir Teknik Üniversitesi"
+    },
+    {
+      "assistant": 0,
+      "associateProfessor": 0,
+      "doctor": 0,
+      "lecturer": 41,
+      "professor": 0,
+      "slug": "faruk-sarac-tasarim-meslek-yuksekokulu",
+      "total": 41,
+      "name": "Faruk Saraç Tasarım Meslek Yüksekokulu (İstanbul)"
+    },
+    {
+      "assistant": 76,
+      "associateProfessor": 21,
+      "doctor": 91,
+      "lecturer": 83,
+      "professor": 53,
+      "slug": "fatih-sultan-mehmet-vakif-universitesi",
+      "total": 324,
+      "name": "Fatih Sultan Mehmet Vakıf Üniversitesi"
+    },
+    {
+      "assistant": 18,
+      "associateProfessor": 13,
+      "doctor": 45,
+      "lecturer": 37,
+      "professor": 15,
+      "slug": "fenerbahce-universitesi",
+      "total": 128,
+      "name": "Fenerbahçe Üniversitesi"
+    },
+    {
+      "assistant": 656,
+      "associateProfessor": 189,
+      "doctor": 357,
+      "lecturer": 273,
+      "professor": 430,
+      "slug": "firat-universitesi",
+      "total": 1905,
+      "name": "Fırat Üniversitesi"
+    },
+    {
+      "assistant": 71,
+      "associateProfessor": 50,
+      "doctor": 54,
+      "lecturer": 68,
+      "professor": 56,
+      "slug": "galatasaray-universitesi",
+      "total": 299,
+      "name": "Galatasaray Üniversitesi"
+    },
+    {
+      "assistant": 1192,
+      "associateProfessor": 376,
+      "doctor": 207,
+      "lecturer": 562,
+      "professor": 944,
+      "slug": "gazi-universitesi",
+      "total": 3281,
+      "name": "Gazi Üniversitesi"
+    },
+    {
+      "assistant": 15,
+      "associateProfessor": 3,
+      "doctor": 39,
+      "lecturer": 26,
+      "professor": 3,
+      "slug": "gaziantep-islam-bilim-ve-teknoloji-universitesi",
+      "total": 86,
+      "name": "Gaziantep İslam Bilim Ve Teknoloji Üniversitesi"
+    },
+    {
+      "assistant": 698,
+      "associateProfessor": 151,
+      "doctor": 363,
+      "lecturer": 383,
+      "professor": 229,
+      "slug": "gaziantep-universitesi",
+      "total": 1824,
+      "name": "Gaziantep Üniversitesi"
+    },
+    {
+      "assistant": 300,
+      "associateProfessor": 58,
+      "doctor": 122,
+      "lecturer": 116,
+      "professor": 115,
+      "slug": "gebze-teknik-universitesi",
+      "total": 711,
+      "name": "Gebze Teknik Üniversitesi"
+    },
+    {
+      "assistant": 189,
+      "associateProfessor": 117,
+      "doctor": 339,
+      "lecturer": 350,
+      "professor": 94,
+      "slug": "giresun-universitesi",
+      "total": 1089,
+      "name": "Giresun Üniversitesi"
+    },
+    {
+      "assistant": 169,
+      "associateProfessor": 60,
+      "doctor": 189,
+      "lecturer": 195,
+      "professor": 30,
+      "slug": "gumushane-universitesi",
+      "total": 643,
+      "name": "Gümüşhane Üniversitesi"
+    },
+    {
+      "assistant": 1600,
+      "associateProfessor": 353,
+      "doctor": 558,
+      "lecturer": 629,
+      "professor": 920,
+      "slug": "hacettepe-universitesi",
+      "total": 4060,
+      "name": "Hacettepe Üniversitesi"
+    },
+    {
+      "assistant": 117,
+      "associateProfessor": 10,
+      "doctor": 105,
+      "lecturer": 111,
+      "professor": 7,
+      "slug": "hakkari-universitesi",
+      "total": 350,
+      "name": "Hakkari Üniversitesi"
+    },
+    {
+      "assistant": 75,
+      "associateProfessor": 20,
+      "doctor": 133,
+      "lecturer": 94,
+      "professor": 65,
+      "slug": "halic-universitesi",
+      "total": 387,
+      "name": "Haliç Üniversitesi"
+    },
+    {
+      "assistant": 325,
+      "associateProfessor": 129,
+      "doctor": 304,
+      "lecturer": 268,
+      "professor": 143,
+      "slug": "harran-universitesi",
+      "total": 1169,
+      "name": "Harran Üniversitesi"
+    },
+    {
+      "assistant": 86,
+      "associateProfessor": 10,
+      "doctor": 83,
+      "lecturer": 33,
+      "professor": 61,
+      "slug": "hasan-kalyoncu-universitesi",
+      "total": 273,
+      "name": "Hasan Kalyoncu Üniversitesi"
+    },
+    {
+      "assistant": 442,
+      "associateProfessor": 100,
+      "doctor": 281,
+      "lecturer": 226,
+      "professor": 174,
+      "slug": "hatay-mustafa-kemal-universitesi",
+      "total": 1223,
+      "name": "Hatay Mustafa Kemal Üniversitesi"
+    },
+    {
+      "assistant": 247,
+      "associateProfessor": 94,
+      "doctor": 222,
+      "lecturer": 262,
+      "professor": 78,
+      "slug": "hitit-universitesi",
+      "total": 903,
+      "name": "Hitit Üniversitesi"
+    },
+    {
+      "assistant": 75,
+      "associateProfessor": 31,
+      "doctor": 168,
+      "lecturer": 142,
+      "professor": 29,
+      "slug": "igdir-universitesi",
+      "total": 445,
+      "name": "Iğdır Üniversitesi"
+    },
+    {
+      "assistant": 72,
+      "associateProfessor": 60,
+      "doctor": 141,
+      "lecturer": 299,
+      "professor": 113,
+      "slug": "isparta-uygulamali-bilimler-universitesi",
+      "total": 685,
+      "name": "Isparta Uygulamalı Bilimler Üniversitesi"
+    },
+    {
+      "assistant": 55,
+      "associateProfessor": 22,
+      "doctor": 69,
+      "lecturer": 70,
+      "professor": 39,
+      "slug": "isik-universitesi",
+      "total": 255,
+      "name": "Işık Üniversitesi"
+    },
+    {
+      "assistant": 20,
+      "associateProfessor": 10,
+      "doctor": 51,
+      "lecturer": 35,
+      "professor": 37,
+      "slug": "ibn-haldun-universitesi",
+      "total": 153,
+      "name": "İbn Haldun Üniversitesi"
+    },
+    {
+      "assistant": 6,
+      "associateProfessor": 62,
+      "doctor": 195,
+      "lecturer": 385,
+      "professor": 104,
+      "slug": "ihsan-dogramaci-bilkent-universitesi",
+      "total": 752,
+      "name": "İhsan Doğramacı Bilkent Üniversitesi"
+    },
+    {
+      "assistant": 581,
+      "associateProfessor": 210,
+      "doctor": 320,
+      "lecturer": 193,
+      "professor": 337,
+      "slug": "inonu-universitesi",
+      "total": 1641,
+      "name": "İnönü Üniversitesi"
+    },
+    {
+      "assistant": 91,
+      "associateProfessor": 31,
+      "doctor": 105,
+      "lecturer": 124,
+      "professor": 40,
+      "slug": "iskenderun-teknik-universitesi",
+      "total": 391,
+      "name": "İskenderun Teknik Üniversitesi"
+    },
+    {
+      "assistant": 58,
+      "associateProfessor": 26,
+      "doctor": 134,
+      "lecturer": 144,
+      "professor": 66,
+      "slug": "istanbul-arel-universitesi",
+      "total": 428,
+      "name": "İstanbul Arel Üniversitesi"
+    },
+    {
+      "assistant": 9,
+      "associateProfessor": 10,
+      "doctor": 99,
+      "lecturer": 11,
+      "professor": 33,
+      "slug": "istanbul-atlas-universitesi",
+      "total": 162,
+      "name": "İstanbul Atlas Üniversitesi"
+    },
+    {
+      "assistant": 151,
+      "associateProfessor": 61,
+      "doctor": 333,
+      "lecturer": 301,
+      "professor": 174,
+      "slug": "istanbul-aydin-universitesi",
+      "total": 1020,
+      "name": "İstanbul Aydın Üniversitesi"
+    },
+    {
+      "assistant": 26,
+      "associateProfessor": 4,
+      "doctor": 63,
+      "lecturer": 107,
+      "professor": 15,
+      "slug": "istanbul-ayvansaray-universitesi",
+      "total": 215,
+      "name": "İstanbul Ayvansaray Üniversitesi"
+    },
+    {
+      "assistant": 121,
+      "associateProfessor": 49,
+      "doctor": 183,
+      "lecturer": 204,
+      "professor": 66,
+      "slug": "istanbul-bilgi-universitesi",
+      "total": 623,
+      "name": "İstanbul Bilgi Üniversitesi"
+    },
+    {
+      "assistant": 51,
+      "associateProfessor": 4,
+      "doctor": 99,
+      "lecturer": 59,
+      "professor": 24,
+      "slug": "istanbul-esenyurt-universitesi",
+      "total": 237,
+      "name": "İstanbul Esenyurt Üniversitesi"
+    },
+    {
+      "assistant": 5,
+      "associateProfessor": 1,
+      "doctor": 27,
+      "lecturer": 1,
+      "professor": 11,
+      "slug": "istanbul-galata-universitesi",
+      "total": 45,
+      "name": "İstanbul Galata Üniversitesi"
+    },
+    {
+      "assistant": 62,
+      "associateProfessor": 9,
+      "doctor": 83,
+      "lecturer": 88,
+      "professor": 37,
+      "slug": "istanbul-gedik-universitesi",
+      "total": 279,
+      "name": "İstanbul Gedik Üniversitesi"
+    },
+    {
+      "assistant": 133,
+      "associateProfessor": 48,
+      "doctor": 361,
+      "lecturer": 237,
+      "professor": 75,
+      "slug": "istanbul-gelisim-universitesi",
+      "total": 854,
+      "name": "İstanbul Gelişim Üniversitesi"
+    },
+    {
+      "assistant": 15,
+      "associateProfessor": 9,
+      "doctor": 45,
+      "lecturer": 36,
+      "professor": 35,
+      "slug": "istanbul-kent-universitesi",
+      "total": 140,
+      "name": "İstanbul Kent Üniversitesi"
+    },
+    {
+      "assistant": 112,
+      "associateProfessor": 26,
+      "doctor": 128,
+      "lecturer": 97,
+      "professor": 53,
+      "slug": "istanbul-kultur-universitesi",
+      "total": 416,
+      "name": "İstanbul Kültür Üniversitesi"
+    },
+    {
+      "assistant": 311,
+      "associateProfessor": 74,
+      "doctor": 238,
+      "lecturer": 88,
+      "professor": 149,
+      "slug": "istanbul-medeniyet-universitesi",
+      "total": 860,
+      "name": "İstanbul Medeniyet Üniversitesi"
+    },
+    {
+      "assistant": 327,
+      "associateProfessor": 109,
+      "doctor": 435,
+      "lecturer": 201,
+      "professor": 182,
+      "slug": "istanbul-medipol-universitesi",
+      "total": 1254,
+      "name": "İstanbul Medipol Üniversitesi"
+    },
+    {
+      "assistant": 51,
+      "associateProfessor": 37,
+      "doctor": 284,
+      "lecturer": 120,
+      "professor": 125,
+      "slug": "istanbul-okan-universitesi",
+      "total": 617,
+      "name": "İstanbul Okan Üniversitesi"
+    },
+    {
+      "assistant": 29,
+      "associateProfessor": 14,
+      "doctor": 101,
+      "lecturer": 68,
+      "professor": 29,
+      "slug": "istanbul-rumeli-universitesi",
+      "total": 241,
+      "name": "İstanbul Rumeli Üniversitesi"
+    },
+    {
+      "assistant": 67,
+      "associateProfessor": 33,
+      "doctor": 131,
+      "lecturer": 41,
+      "professor": 46,
+      "slug": "istanbul-sabahattin-zaim-universitesi",
+      "total": 318,
+      "name": "İstanbul Sabahattin Zaim Üniversitesi"
+    },
+    {
+      "assistant": 10,
+      "associateProfessor": 4,
+      "doctor": 47,
+      "lecturer": 0,
+      "professor": 36,
+      "slug": "istanbul-saglik-ve-teknoloji-universitesi",
+      "total": 97,
+      "name": "İstanbul Sağlık Ve Teknoloji Üniversitesi"
+    },
+    {
+      "assistant": 0,
+      "associateProfessor": 0,
+      "doctor": 14,
+      "lecturer": 67,
+      "professor": 4,
+      "slug": "istanbul-sisli-meslek-yuksekokulu",
+      "total": 85,
+      "name": "İstanbul Şişli Meslek Yüksekokulu"
+    },
+    {
+      "assistant": 756,
+      "associateProfessor": 245,
+      "doctor": 332,
+      "lecturer": 457,
+      "professor": 545,
+      "slug": "istanbul-teknik-universitesi",
+      "total": 2335,
+      "name": "İstanbul Teknik Üniversitesi"
+    },
+    {
+      "assistant": 53,
+      "associateProfessor": 28,
+      "doctor": 70,
+      "lecturer": 49,
+      "professor": 84,
+      "slug": "istanbul-ticaret-universitesi",
+      "total": 284,
+      "name": "İstanbul Ticaret Üniversitesi"
+    },
+    {
+      "assistant": 1067,
+      "associateProfessor": 406,
+      "doctor": 616,
+      "lecturer": 483,
+      "professor": 926,
+      "slug": "istanbul-universitesi",
+      "total": 3498,
+      "name": "İstanbul Üniversitesi"
+    },
+    {
+      "assistant": 825,
+      "associateProfessor": 237,
+      "doctor": 364,
+      "lecturer": 190,
+      "professor": 569,
+      "slug": "istanbul-universitesi-cerrahpasa",
+      "total": 2185,
+      "name": "İstanbul Üniversitesi-Cerrahpaşa"
+    },
+    {
+      "assistant": 79,
+      "associateProfessor": 29,
+      "doctor": 187,
+      "lecturer": 62,
+      "professor": 90,
+      "slug": "istanbul-yeni-yuzyil-universitesi",
+      "total": 447,
+      "name": "İstanbul Yeni Yüzyıl Üniversitesi"
+    },
+    {
+      "assistant": 18,
+      "associateProfessor": 7,
+      "doctor": 48,
+      "lecturer": 26,
+      "professor": 25,
+      "slug": "istanbul-29-mayis-universitesi",
+      "total": 124,
+      "name": "İstanbul 29 Mayıs Üniversitesi"
+    },
+    {
+      "assistant": 71,
+      "associateProfessor": 37,
+      "doctor": 198,
+      "lecturer": 80,
+      "professor": 99,
+      "slug": "istinye-universitesi",
+      "total": 485,
+      "name": "İstinye Üniversitesi"
+    },
+    {
+      "assistant": 60,
+      "associateProfessor": 33,
+      "doctor": 94,
+      "lecturer": 36,
+      "professor": 27,
+      "slug": "izmir-bakircay-universitesi",
+      "total": 250,
+      "name": "İzmir Bakırçay Üniversitesi"
+    },
+    {
+      "assistant": 42,
+      "associateProfessor": 52,
+      "doctor": 121,
+      "lecturer": 23,
+      "professor": 37,
+      "slug": "izmir-demokrasi-universitesi",
+      "total": 275,
+      "name": "İzmir Demokrasi Üniversitesi"
+    },
+    {
+      "assistant": 82,
+      "associateProfessor": 52,
+      "doctor": 120,
+      "lecturer": 178,
+      "professor": 82,
+      "slug": "izmir-ekonomi-universitesi",
+      "total": 514,
+      "name": "İzmir Ekonomi Üniversitesi"
+    },
+    {
+      "assistant": 356,
+      "associateProfessor": 157,
+      "doctor": 259,
+      "lecturer": 127,
+      "professor": 165,
+      "slug": "izmir-katip-celebi-universitesi",
+      "total": 1064,
+      "name": "İzmir Katip Çelebi Üniversitesi"
+    },
+    {
+      "assistant": 1,
+      "associateProfessor": 12,
+      "doctor": 35,
+      "lecturer": 5,
+      "professor": 24,
+      "slug": "izmir-tinaztepe-universitesi",
+      "total": 77,
+      "name": "İzmir Tınaztepe Üniversitesi"
+    },
+    {
+      "assistant": 236,
+      "associateProfessor": 63,
+      "doctor": 63,
+      "lecturer": 134,
+      "professor": 86,
+      "slug": "izmir-yuksek-teknoloji-enstitusu",
+      "total": 582,
+      "name": "İzmir Yüksek Teknoloji Enstitüsü"
+    },
+    {
+      "assistant": 37,
+      "associateProfessor": 29,
+      "doctor": 78,
+      "lecturer": 91,
+      "professor": 55,
+      "slug": "kadir-has-universitesi",
+      "total": 290,
+      "name": "Kadir Has Üniversitesi"
+    },
+    {
+      "assistant": 249,
+      "associateProfessor": 101,
+      "doctor": 278,
+      "lecturer": 204,
+      "professor": 87,
+      "slug": "kafkas-universitesi",
+      "total": 919,
+      "name": "Kafkas Üniversitesi"
+    },
+    {
+      "assistant": 4,
+      "associateProfessor": 1,
+      "doctor": 14,
+      "lecturer": 51,
+      "professor": 0,
+      "slug": "kahramanmaras-istiklal-universitesi",
+      "total": 70,
+      "name": "Kahramanmaraş İstiklal Üniversitesi"
+    },
+    {
+      "assistant": 449,
+      "associateProfessor": 102,
+      "doctor": 349,
+      "lecturer": 311,
+      "professor": 197,
+      "slug": "kahramanmaras-sutcu-imam-universitesi",
+      "total": 1408,
+      "name": "Kahramanmaraş Sütçü İmam Üniversitesi"
+    },
+    {
+      "assistant": 18,
+      "associateProfessor": 1,
+      "doctor": 56,
+      "lecturer": 94,
+      "professor": 15,
+      "slug": "kapadokya-universitesi",
+      "total": 184,
+      "name": "Kapadokya Üniversitesi"
+    },
+    {
+      "assistant": 252,
+      "associateProfessor": 136,
+      "doctor": 381,
+      "lecturer": 244,
+      "professor": 106,
+      "slug": "karabuk-universitesi",
+      "total": 1119,
+      "name": "Karabük Üniversitesi"
+    },
+    {
+      "assistant": 956,
+      "associateProfessor": 163,
+      "doctor": 382,
+      "lecturer": 283,
+      "professor": 443,
+      "slug": "karadeniz-teknik-universitesi",
+      "total": 2227,
+      "name": "Karadeniz Teknik Üniversitesi"
+    },
+    {
+      "assistant": 245,
+      "associateProfessor": 70,
+      "doctor": 228,
+      "lecturer": 176,
+      "professor": 43,
+      "slug": "karamanoglu-mehmetbey-universitesi",
+      "total": 762,
+      "name": "Karamanoğlu Mehmetbey Üniversitesi"
+    },
+    {
+      "assistant": 170,
+      "associateProfessor": 98,
+      "doctor": 266,
+      "lecturer": 292,
+      "professor": 73,
+      "slug": "kastamonu-universitesi",
+      "total": 899,
+      "name": "Kastamonu Üniversitesi"
+    },
+    {
+      "assistant": 10,
+      "associateProfessor": 20,
+      "doctor": 51,
+      "lecturer": 119,
+      "professor": 11,
+      "slug": "kayseri-universitesi",
+      "total": 211,
+      "name": "Kayseri Üniversitesi"
+    },
+    {
+      "assistant": 412,
+      "associateProfessor": 116,
+      "doctor": 313,
+      "lecturer": 166,
+      "professor": 205,
+      "slug": "kirikkale-universitesi",
+      "total": 1212,
+      "name": "Kırıkkale Üniversitesi"
+    },
+    {
+      "assistant": 242,
+      "associateProfessor": 62,
+      "doctor": 219,
+      "lecturer": 253,
+      "professor": 31,
+      "slug": "kirklareli-universitesi",
+      "total": 807,
+      "name": "Kırklareli Üniversitesi"
+    },
+    {
+      "assistant": 186,
+      "associateProfessor": 106,
+      "doctor": 318,
+      "lecturer": 252,
+      "professor": 69,
+      "slug": "kirsehir-ahi-evran-universitesi",
+      "total": 931,
+      "name": "Kırşehir Ahi Evran Üniversitesi"
+    },
+    {
+      "assistant": 138,
+      "associateProfessor": 31,
+      "doctor": 120,
+      "lecturer": 109,
+      "professor": 24,
+      "slug": "kilis-7-aralik-universitesi",
+      "total": 422,
+      "name": "Kilis 7 Aralık Üniversitesi"
+    },
+    {
+      "assistant": 0,
+      "associateProfessor": 3,
+      "doctor": 33,
+      "lecturer": 17,
+      "professor": 7,
+      "slug": "kocaeli-saglik-ve-teknoloji-universitesi",
+      "total": 60,
+      "name": "Kocaeli Sağlık Ve Teknoloji Üniversitesi"
+    },
+    {
+      "assistant": 689,
+      "associateProfessor": 225,
+      "doctor": 472,
+      "lecturer": 470,
+      "professor": 304,
+      "slug": "kocaeli-universitesi",
+      "total": 2160,
+      "name": "Kocaeli Üniversitesi"
+    },
+    {
+      "assistant": 48,
+      "associateProfessor": 85,
+      "doctor": 133,
+      "lecturer": 190,
+      "professor": 214,
+      "slug": "koc-universitesi",
+      "total": 670,
+      "name": "Koç Üniversitesi"
+    },
+    {
+      "assistant": 22,
+      "associateProfessor": 9,
+      "doctor": 32,
+      "lecturer": 13,
+      "professor": 18,
+      "slug": "konya-gida-ve-tarim-universitesi",
+      "total": 94,
+      "name": "Konya Gıda Ve Tarım Üniversitesi"
+    },
+    {
+      "assistant": 126,
+      "associateProfessor": 58,
+      "doctor": 118,
+      "lecturer": 66,
+      "professor": 83,
+      "slug": "konya-teknik-universitesi",
+      "total": 451,
+      "name": "Konya Teknik Üniversitesi"
+    },
+    {
+      "assistant": 82,
+      "associateProfessor": 11,
+      "doctor": 114,
+      "lecturer": 74,
+      "professor": 56,
+      "slug": "kto-karatay-universitesi",
+      "total": 337,
+      "name": "Kto Karatay Üniversitesi"
+    },
+    {
+      "assistant": 184,
+      "associateProfessor": 95,
+      "doctor": 250,
+      "lecturer": 326,
+      "professor": 128,
+      "slug": "kutahya-dumlupinar-universitesi",
+      "total": 983,
+      "name": "Kütahya Dumlupınar Üniversitesi"
+    },
+    {
+      "assistant": 179,
+      "associateProfessor": 33,
+      "doctor": 142,
+      "lecturer": 58,
+      "professor": 24,
+      "slug": "kutahya-saglik-bilimleri-universitesi",
+      "total": 436,
+      "name": "Kütahya Sağlık Bilimleri Üniversitesi"
+    },
+    {
+      "assistant": 24,
+      "associateProfessor": 12,
+      "doctor": 67,
+      "lecturer": 22,
+      "professor": 52,
+      "slug": "lokman-hekim-universitesi",
+      "total": 177,
+      "name": "Lokman Hekim Üniversitesi"
+    },
+    {
+      "assistant": 15,
+      "associateProfessor": 30,
+      "doctor": 118,
+      "lecturer": 107,
+      "professor": 27,
+      "slug": "malatya-turgut-ozal-universitesi",
+      "total": 297,
+      "name": "Malatya Turgut Özal Üniversitesi"
+    },
+    {
+      "assistant": 152,
+      "associateProfessor": 39,
+      "doctor": 249,
+      "lecturer": 99,
+      "professor": 144,
+      "slug": "maltepe-universitesi",
+      "total": 683,
+      "name": "Maltepe Üniversitesi"
+    },
+    {
+      "assistant": 707,
+      "associateProfessor": 153,
+      "doctor": 360,
+      "lecturer": 361,
+      "professor": 254,
+      "slug": "manisa-celal-bayar-universitesi",
+      "total": 1835,
+      "name": "Manisa Celâl Bayar Üniversitesi"
+    },
+    {
+      "assistant": 162,
+      "associateProfessor": 49,
+      "doctor": 169,
+      "lecturer": 154,
+      "professor": 25,
+      "slug": "mardin-artuklu-universitesi",
+      "total": 559,
+      "name": "Mardin Artuklu Üniversitesi"
+    },
+    {
+      "assistant": 965,
+      "associateProfessor": 404,
+      "doctor": 571,
+      "lecturer": 352,
+      "professor": 783,
+      "slug": "marmara-universitesi",
+      "total": 3075,
+      "name": "Marmara Üniversitesi"
+    },
+    {
+      "assistant": 33,
+      "associateProfessor": 17,
+      "doctor": 59,
+      "lecturer": 37,
+      "professor": 27,
+      "slug": "mef-universitesi",
+      "total": 173,
+      "name": "Mef Üniversitesi"
+    },
+    {
+      "assistant": 561,
+      "associateProfessor": 149,
+      "doctor": 335,
+      "lecturer": 455,
+      "professor": 340,
+      "slug": "mersin-universitesi",
+      "total": 1840,
+      "name": "Mersin Üniversitesi"
+    },
+    {
+      "assistant": 155,
+      "associateProfessor": 88,
+      "doctor": 209,
+      "lecturer": 106,
+      "professor": 136,
+      "slug": "mimar-sinan-guzel-sanatlar-universitesi",
+      "total": 694,
+      "name": "Mimar Sinan Güzel Sanatlar Üniversitesi"
+    },
+    {
+      "assistant": 425,
+      "associateProfessor": 192,
+      "doctor": 405,
+      "lecturer": 501,
+      "professor": 217,
+      "slug": "mugla-sitki-kocman-universitesi",
+      "total": 1740,
+      "name": "Muğla Sıtkı Koçman Üniversitesi"
+    },
+    {
+      "assistant": 137,
+      "associateProfessor": 33,
+      "doctor": 161,
+      "lecturer": 117,
+      "professor": 19,
+      "slug": "munzur-universitesi",
+      "total": 467,
+      "name": "Munzur Üniversitesi"
+    },
+    {
+      "assistant": 191,
+      "associateProfessor": 42,
+      "doctor": 200,
+      "lecturer": 193,
+      "professor": 18,
+      "slug": "mus-alparslan-universitesi",
+      "total": 644,
+      "name": "Muş Alparslan Üniversitesi"
+    },
+    {
+      "assistant": 831,
+      "associateProfessor": 196,
+      "doctor": 462,
+      "lecturer": 220,
+      "professor": 329,
+      "slug": "necmettin-erbakan-universitesi",
+      "total": 2038,
+      "name": "Necmettin Erbakan Üniversitesi"
+    },
+    {
+      "assistant": 180,
+      "associateProfessor": 52,
+      "doctor": 235,
+      "lecturer": 217,
+      "professor": 39,
+      "slug": "nevsehir-haci-bektas-veli-universitesi",
+      "total": 723,
+      "name": "Nevşehir Hacı Bektaş Veli Üniversitesi"
+    },
+    {
+      "assistant": 236,
+      "associateProfessor": 85,
+      "doctor": 323,
+      "lecturer": 265,
+      "professor": 132,
+      "slug": "nigde-omer-halisdemir-universitesi",
+      "total": 1041,
+      "name": "Niğde Ömer Halisdemir Üniversitesi"
+    },
+    {
+      "assistant": 104,
+      "associateProfessor": 29,
+      "doctor": 232,
+      "lecturer": 142,
+      "professor": 69,
+      "slug": "nisantasi-universitesi",
+      "total": 576,
+      "name": "Nişantaşı Üniversitesi"
+    },
+    {
+      "assistant": 28,
+      "associateProfessor": 9,
+      "doctor": 60,
+      "lecturer": 2,
+      "professor": 15,
+      "slug": "nuh-naci-yazgan-universitesi",
+      "total": 114,
+      "name": "Nuh Naci Yazgan Üniversitesi"
+    },
+    {
+      "assistant": 1016,
+      "associateProfessor": 299,
+      "doctor": 412,
+      "lecturer": 401,
+      "professor": 463,
+      "slug": "ondokuz-mayis-universitesi",
+      "total": 2591,
+      "name": "Ondokuz Mayıs Üniversitesi"
+    },
+    {
+      "assistant": 276,
+      "associateProfessor": 101,
+      "doctor": 198,
+      "lecturer": 175,
+      "professor": 76,
+      "slug": "ordu-universitesi",
+      "total": 826,
+      "name": "Ordu Üniversitesi"
+    },
+    {
+      "assistant": 846,
+      "associateProfessor": 170,
+      "doctor": 260,
+      "lecturer": 558,
+      "professor": 391,
+      "slug": "orta-dogu-teknik-universitesi",
+      "total": 2225,
+      "name": "Orta Doğu Teknik Üniversitesi"
+    },
+    {
+      "assistant": 159,
+      "associateProfessor": 47,
+      "doctor": 160,
+      "lecturer": 149,
+      "professor": 36,
+      "slug": "osmaniye-korkut-ata-universitesi",
+      "total": 551,
+      "name": "Osmaniye Korkut Ata Üniversitesi"
+    },
+    {
+      "assistant": 8,
+      "associateProfessor": 4,
+      "doctor": 37,
+      "lecturer": 27,
+      "professor": 17,
+      "slug": "ostim-teknik-universitesi",
+      "total": 93,
+      "name": "Ostim Teknik Üniversitesi"
+    },
+    {
+      "assistant": 45,
+      "associateProfessor": 29,
+      "doctor": 145,
+      "lecturer": 153,
+      "professor": 37,
+      "slug": "ozyegin-universitesi",
+      "total": 409,
+      "name": "Özyeğin Üniversitesi"
+    },
+    {
+      "assistant": 701,
+      "associateProfessor": 253,
+      "doctor": 418,
+      "lecturer": 465,
+      "professor": 366,
+      "slug": "pamukkale-universitesi",
+      "total": 2203,
+      "name": "Pamukkale Üniversitesi"
+    },
+    {
+      "assistant": 30,
+      "associateProfessor": 14,
+      "doctor": 53,
+      "lecturer": 83,
+      "professor": 31,
+      "slug": "piri-reis-universitesi",
+      "total": 211,
+      "name": "Piri Reis Üniversitesi"
+    },
+    {
+      "assistant": 486,
+      "associateProfessor": 118,
+      "doctor": 297,
+      "lecturer": 211,
+      "professor": 102,
+      "slug": "recep-tayyip-erdogan-universitesi",
+      "total": 1214,
+      "name": "Recep Tayyip Erdoğan Üniversitesi"
+    },
+    {
+      "assistant": 23,
+      "associateProfessor": 47,
+      "doctor": 89,
+      "lecturer": 124,
+      "professor": 76,
+      "slug": "sabanci-universitesi",
+      "total": 359,
+      "name": "Sabancı Üniversitesi"
+    },
+    {
+      "assistant": 415,
+      "associateProfessor": 442,
+      "doctor": 557,
+      "lecturer": 100,
+      "professor": 901,
+      "slug": "saglik-bilimleri-universitesi",
+      "total": 2415,
+      "name": "Sağlık Bilimleri Üniversitesi"
+    },
+    {
+      "assistant": 54,
+      "associateProfessor": 47,
+      "doctor": 139,
+      "lecturer": 258,
+      "professor": 49,
+      "slug": "sakarya-uygulamali-bilimler-universitesi",
+      "total": 547,
+      "name": "Sakarya Uygulamalı Bilimler Üniversitesi"
+    },
+    {
+      "assistant": 478,
+      "associateProfessor": 211,
+      "doctor": 407,
+      "lecturer": 227,
+      "professor": 300,
+      "slug": "sakarya-universitesi",
+      "total": 1623,
+      "name": "Sakarya Üniversitesi"
+    },
+    {
+      "assistant": 42,
+      "associateProfessor": 14,
+      "doctor": 86,
+      "lecturer": 56,
+      "professor": 13,
+      "slug": "samsun-universitesi",
+      "total": 211,
+      "name": "Samsun Üniversitesi"
+    },
+    {
+      "assistant": 18,
+      "associateProfessor": 8,
+      "doctor": 43,
+      "lecturer": 18,
+      "professor": 37,
+      "slug": "sanko-universitesi",
+      "total": 124,
+      "name": "Sanko Üniversitesi"
+    },
+    {
+      "assistant": 850,
+      "associateProfessor": 228,
+      "doctor": 470,
+      "lecturer": 598,
+      "professor": 534,
+      "slug": "selcuk-universitesi",
+      "total": 2680,
+      "name": "Selçuk Üniversitesi"
+    },
+    {
+      "assistant": 186,
+      "associateProfessor": 61,
+      "doctor": 187,
+      "lecturer": 153,
+      "professor": 35,
+      "slug": "siirt-universitesi",
+      "total": 622,
+      "name": "Siirt Üniversitesi"
+    },
+    {
+      "assistant": 112,
+      "associateProfessor": 51,
+      "doctor": 167,
+      "lecturer": 201,
+      "professor": 36,
+      "slug": "sinop-universitesi",
+      "total": 567,
+      "name": "Sinop Üniversitesi"
+    },
+    {
+      "assistant": 33,
+      "associateProfessor": 5,
+      "doctor": 21,
+      "lecturer": 7,
+      "professor": 4,
+      "slug": "sivas-bilim-ve-teknoloji-universitesi",
+      "total": 70,
+      "name": "Sivas Bilim Ve Teknoloji Üniversitesi"
+    },
+    {
+      "assistant": 686,
+      "associateProfessor": 176,
+      "doctor": 452,
+      "lecturer": 376,
+      "professor": 282,
+      "slug": "sivas-cumhuriyet-universitesi",
+      "total": 1972,
+      "name": "Sivas Cumhuriyet Üniversitesi"
+    },
+    {
+      "assistant": 740,
+      "associateProfessor": 169,
+      "doctor": 420,
+      "lecturer": 245,
+      "professor": 328,
+      "slug": "suleyman-demirel-universitesi",
+      "total": 1902,
+      "name": "Süleyman Demirel Üniversitesi"
+    },
+    {
+      "assistant": 88,
+      "associateProfessor": 20,
+      "doctor": 97,
+      "lecturer": 95,
+      "professor": 17,
+      "slug": "sirnak-universitesi",
+      "total": 317,
+      "name": "Şırnak Üniversitesi"
+    },
+    {
+      "assistant": 38,
+      "associateProfessor": 21,
+      "doctor": 44,
+      "lecturer": 57,
+      "professor": 10,
+      "slug": "tarsus-universitesi",
+      "total": 170,
+      "name": "Tarsus Üniversitesi"
+    },
+    {
+      "assistant": 73,
+      "associateProfessor": 18,
+      "doctor": 88,
+      "lecturer": 78,
+      "professor": 30,
+      "slug": "ted-universitesi",
+      "total": 287,
+      "name": "Ted Üniversitesi"
+    },
+    {
+      "assistant": 373,
+      "associateProfessor": 124,
+      "doctor": 280,
+      "lecturer": 279,
+      "professor": 162,
+      "slug": "tekirdag-namik-kemal-universitesi",
+      "total": 1218,
+      "name": "Tekirdağ Namık Kemal Üniversitesi"
+    },
+    {
+      "assistant": 23,
+      "associateProfessor": 47,
+      "doctor": 86,
+      "lecturer": 81,
+      "professor": 97,
+      "slug": "tobb-ekonomi-ve-teknoloji-universitesi",
+      "total": 334,
+      "name": "Tobb Ekonomi Ve Teknoloji Üniversitesi"
+    },
+    {
+      "assistant": 482,
+      "associateProfessor": 139,
+      "doctor": 366,
+      "lecturer": 363,
+      "professor": 135,
+      "slug": "tokat-gaziosmanpasa-universitesi",
+      "total": 1485,
+      "name": "Tokat Gaziosmanpaşa Üniversitesi"
+    },
+    {
+      "assistant": 23,
+      "associateProfessor": 5,
+      "doctor": 40,
+      "lecturer": 69,
+      "professor": 18,
+      "slug": "toros-universitesi",
+      "total": 155,
+      "name": "Toros Üniversitesi"
+    },
+    {
+      "assistant": 132,
+      "associateProfessor": 40,
+      "doctor": 132,
+      "lecturer": 155,
+      "professor": 57,
+      "slug": "trabzon-universitesi",
+      "total": 516,
+      "name": "Trabzon Üniversitesi"
+    },
+    {
+      "assistant": 680,
+      "associateProfessor": 118,
+      "doctor": 444,
+      "lecturer": 419,
+      "professor": 253,
+      "slug": "trakya-universitesi",
+      "total": 1914,
+      "name": "Trakya Üniversitesi"
+    },
+    {
+      "assistant": 22,
+      "associateProfessor": 12,
+      "doctor": 41,
+      "lecturer": 57,
+      "professor": 9,
+      "slug": "turk-hava-kurumu-universitesi",
+      "total": 141,
+      "name": "Türk Hava Kurumu Üniversitesi"
+    },
+    {
+      "assistant": 144,
+      "associateProfessor": 12,
+      "doctor": 56,
+      "lecturer": 90,
+      "professor": 25,
+      "slug": "turk-alman-universitesi",
+      "total": 327,
+      "name": "Türk-Alman Üniversitesi"
+    },
+    {
+      "assistant": 107,
+      "associateProfessor": 30,
+      "doctor": 78,
+      "lecturer": 50,
+      "professor": 80,
+      "slug": "ufuk-universitesi",
+      "total": 345,
+      "name": "Ufuk Üniversitesi"
+    },
+    {
+      "assistant": 168,
+      "associateProfessor": 82,
+      "doctor": 288,
+      "lecturer": 216,
+      "professor": 80,
+      "slug": "usak-universitesi",
+      "total": 834,
+      "name": "Uşak Üniversitesi"
+    },
+    {
+      "assistant": 84,
+      "associateProfessor": 35,
+      "doctor": 204,
+      "lecturer": 79,
+      "professor": 96,
+      "slug": "uskudar-universitesi",
+      "total": 498,
+      "name": "Üsküdar Üniversitesi"
+    },
+    {
+      "assistant": 592,
+      "associateProfessor": 224,
+      "doctor": 506,
+      "lecturer": 266,
+      "professor": 188,
+      "slug": "van-yuzuncu-yil-universitesi",
+      "total": 1776,
+      "name": "Van Yüzüncü Yıl Üniversitesi"
+    },
+    {
+      "assistant": 169,
+      "associateProfessor": 35,
+      "doctor": 162,
+      "lecturer": 178,
+      "professor": 56,
+      "slug": "yalova-universitesi",
+      "total": 600,
+      "name": "Yalova Üniversitesi"
+    },
+    {
+      "assistant": 107,
+      "associateProfessor": 47,
+      "doctor": 110,
+      "lecturer": 129,
+      "professor": 57,
+      "slug": "yasar-universitesi",
+      "total": 450,
+      "name": "Yaşar Üniversitesi"
+    },
+    {
+      "assistant": 155,
+      "associateProfessor": 98,
+      "doctor": 271,
+      "lecturer": 268,
+      "professor": 214,
+      "slug": "yeditepe-universitesi",
+      "total": 1006,
+      "name": "Yeditepe Üniversitesi"
+    },
+    {
+      "assistant": 477,
+      "associateProfessor": 242,
+      "doctor": 343,
+      "lecturer": 333,
+      "professor": 306,
+      "slug": "yildiz-teknik-universitesi",
+      "total": 1701,
+      "name": "Yıldız Teknik Üniversitesi"
+    },
+    {
+      "assistant": 259,
+      "associateProfessor": 75,
+      "doctor": 272,
+      "lecturer": 279,
+      "professor": 57,
+      "slug": "yozgat-bozok-universitesi",
+      "total": 942,
+      "name": "Yozgat Bozok Üniversitesi"
+    },
+    {
+      "assistant": 9,
+      "associateProfessor": 16,
+      "doctor": 66,
+      "lecturer": 41,
+      "professor": 66,
+      "slug": "yuksek-ihtisas-universitesi",
+      "total": 198,
+      "name": "Yüksek İhtisas Üniversitesi"
+    },
+    {
+      "assistant": 498,
+      "associateProfessor": 107,
+      "doctor": 327,
+      "lecturer": 330,
+      "professor": 134,
+      "slug": "zonguldak-bulent-ecevit-universitesi",
+      "total": 1396,
+      "name": "Zonguldak Bülent Ecevit Üniversitesi"
+    }
+  ]
+  

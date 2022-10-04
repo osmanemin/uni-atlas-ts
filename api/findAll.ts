@@ -1,8 +1,8 @@
 import { MongoClient } from "mongodb";
-import { FindOperation } from "../types/FindOperation";
+
 const client = new MongoClient(process.env.MONGODB_URL || "");
 
-const findData = async ({
+const findAll = async ({
   query = {},
   collectionName,
   sort = {},
@@ -20,4 +20,4 @@ const findData = async ({
   });
 };
 
-export default findData;
+export default findAll;
