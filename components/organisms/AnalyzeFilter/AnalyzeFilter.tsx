@@ -5,18 +5,16 @@ import FilterSelect from "../../atoms/FilterSelect";
 import styles from "./analyzeFilter.module.scss";
 
 const types = [
-  {title: "İş Bulma Süresi", value: "EmploymentTimeDistribution"},
-  {title: "Başlangıç Ücreti", value: "priceDistribution"},
-  // {title: "Nitelik Uyuşmazlığı", value: ""},
-  {title: "Kamuda İşe Yerleşme Oranı", value: "publicDistribution"},
-  {title: "Firme Büyüklüğü Dağılımı", value: "companyDistribution"},
-  {title: "Sektör Bazında Dağılım", value: "sectorDistribution"},
+  {title: "İş Bulma Süresi", value: "lEmploymentTimeDistribution"},
+  {title: "Başlangıç Ücreti", value: "lPriceDistribution"},
+  {title: "Nitelik Uyuşmazlığı", value: "lQualityGeneral"},
+  // {title: "Kamuda İşe Yerleşme Oranı", value: "lPublicDistribution"},
+  {title: "Firme Büyüklüğü Dağılımı", value: "lCompanyDistribution"},
+  {title: "Sektör Bazında Dağılım", value: "lSectorDistribution"},
 ];
 
 export default function AnalyzeFilter(): JSX.Element {
   const context = useContext(Context);
-  console.log("context", context);
-
   const handleChangeDepartment = (
     event: React.ChangeEvent<HTMLSelectElement>
   ) => {

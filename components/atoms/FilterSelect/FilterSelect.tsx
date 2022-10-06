@@ -32,7 +32,6 @@ const FilterSelect = ({
           options.map((option: any, index: number) => {
             return (
               <option key={option.id || index} value={option.value || index}>
-                {/* value={option.message.title} */}
                 {option.title}
               </option>
             );
