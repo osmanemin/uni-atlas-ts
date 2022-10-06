@@ -10,7 +10,7 @@ const types = [
   {title: "Nitelik Uyuşmazlığı", value: "lQualityGeneral"},
   // {title: "Kamuda İşe Yerleşme Oranı", value: "lPublicDistribution"},
   {title: "Firme Büyüklüğü Dağılımı", value: "lCompanyDistribution"},
-  {title: "Sektör Bazında Dağılım", value: "lSectorDistribution"},
+  // {title: "Sektör Bazında Dağılım", value: "lSectorDistribution"},
 ];
 
 export default function AnalyzeFilter(): JSX.Element {

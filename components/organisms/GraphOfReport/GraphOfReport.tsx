@@ -6,12 +6,40 @@ import ColumnOfGraph from "../../molecules/ColumnOfGraph";
 
 type GraphOfReportProps = {
   data: any;
-  indicatorType: string;
+  indicatorType: "lQualityGeneral" | "lPriceDistribution" | "lEmploymentTimeDistribution" | "lCompanyDistribution";
 };
+
+const indicators = {
+  lQualityGeneralTitle: [
+    "Niteliklerine Uygun İşlerde Çalışanlar",
+    "Düşük Nitelik Uyuşmazlığı",
+    "Orta Derece Nitelik Uyuşmazlığı",
+    "Yüksek Nitelik Uyuşmazlığı",
+  ],
+  lPriceDistributionTitle: [
+    "4250 ₺-5999 ₺",
+    "6000 ₺-7999 ₺",
+    "8000 ₺-9999 ₺",
+    "10000 ₺ ve üzeri",
+  ],
+  lEmploymentTimeDistributionTitle: [
+    "Mezun Olmadan Önce*",
+    "0-6 Ay",
+    "6-12 Ay",
+    "12+ Ay",
+  ],
+  lCompanyDistributionTitle: [
+    "Mikro Ölçekli Firma (1-9 Kişi)",
+    "Küçük Ölçekli Firma (10-49 Kişi)",
+    "Orta Ölçekli Firma (50-249 Kişi)",
+    "Büyük Ölçekli Firma (250+ Kişi)",
+  ],
+};
+
 export default function GraphOfReport({
   data,
   indicatorType,
-}: GraphOfReportProps): JSX.Element{
+}: GraphOfReportProps): JSX.Element {
   return (
     <div className={styles.container}>
       <div className={styles.background}>
@@ -33,17 +61,24 @@ export default function GraphOfReport({
         </div>
       </div>
       <div className={styles.content}>
-        {((data && indicatorType && data[`${indicatorType}Rate`]) || ["0", "0", "0", "0"]).map(
-          (rate: any, index: number) => (
-            <ColumnOfGraph
-              percent={rate}
-              key={index}
-              title={
-                (data && indicatorType && data[`${indicatorType}Title`][index]) || ""
-              }
-            />
-          )
-        )}
+        {(
+          (data && indicatorType && data[`${indicatorType}Rate`]) || [
+            "0",
+            "0",
+            "0",
+            "0",
+          ]
+        ).map((rate: any, index: number) => (
+          <ColumnOfGraph
+            percent={rate}
+            key={index}
+            title={
+              (data && indicatorType && data[`${indicatorType}Title`]
+                ? data[`${indicatorType}Title`][index]
+                : indicators[`${indicatorType}Title`] ? indicators[`${indicatorType}Title`][index] : "") || ""
+            }
+          />
+        ))}
       </div>
     </div>
   );

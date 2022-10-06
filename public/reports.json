@@ -6,13 +6,6 @@
     "updated": "2022-07-27T10:24:35",
     "year": "2020",
     "title": "Antropoloji",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["23.9", "22.5", "40.2", "13.4"],
     "publicGeneralOrder": "38",
     "publicGeneralValue": "27.1",
@@ -37,27 +30,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "22.2",
       "17.6",
@@ -79,29 +51,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["21.1", "29.5", "19.8", "29.6"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["76", "20", "2", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["11.0", "47.7", "13.9", "27.4"]
   },
   {
@@ -111,13 +62,6 @@
     "updated": "2022-07-27T10:23:21",
     "year": "2020",
     "title": "Arkeoloji",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["19.8", "22.2", "35.5", "22.5"],
     "publicGeneralOrder": "30",
     "publicGeneralValue": "31.7",
@@ -142,27 +86,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "20.2",
       "17.7",
@@ -184,29 +107,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["18.9", "33.8", "22.3", "25.0"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["76", "20", "3", "1"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["12.9", "53.0", "12.2", "21.9"]
   },
   {
@@ -216,13 +118,6 @@
     "updated": "2022-07-27T10:31:16",
     "year": "2020",
     "title": "Bankacılık ve Sigortacılık",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["11.9", "29.4", "48.9", "9.8"],
     "publicGeneralOrder": "51",
     "publicGeneralValue": "21.8",
@@ -247,27 +142,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "25.5",
       "20.0",
@@ -289,29 +163,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["25.1", "27.7", "19.7", "27.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["76", "18", "4", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.9", "51.8", "15.2", "19.1"]
   },
   {
@@ -321,13 +174,6 @@
     "updated": "2022-07-27T10:14:26",
     "year": "2020",
     "title": "Beslenme ve Diyetetik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["64.2", "9.0", "15.2", "11.6"],
     "publicGeneralOrder": "34",
     "publicGeneralValue": "28.9",
@@ -352,27 +198,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "33.8",
       "19.1",
@@ -394,29 +219,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["22.2", "24.4", "22.1", "31.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["70", "24", "3", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["5.0", "52.1", "17.4", "25.5"]
   },
   {
@@ -426,13 +230,6 @@
     "updated": "2022-07-27T09:31:33",
     "year": "2020",
     "title": "Bilgisayar Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["69.0", "16.4", "9.2", "5.4"],
     "publicGeneralOrder": "57",
     "publicGeneralValue": "20.6",
@@ -457,27 +254,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "48.7",
       "10.2",
@@ -499,29 +275,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["17.0", "28.5", "24.9", "29.6"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["44", "20", "12", "24"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["21.9", "52.0", "12.1", "14.0"]
   },
   {
@@ -531,13 +286,6 @@
     "updated": "2022-07-27T10:42:39",
     "year": "2020",
     "title": "Bilgisayar ve Öğretim Teknolojileri Öğretmenliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["60.5", "16.3", "16.6", "6.6"],
     "publicGeneralOrder": "10",
     "publicGeneralValue": "54.5",
@@ -562,27 +310,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "51.2",
       "10.2",
@@ -604,29 +331,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["14.8", "22.4", "25.8", "37.0"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["56", "35", "5", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["7.6", "47.5", "10.3", "34.6"]
   },
   {
@@ -636,13 +342,6 @@
     "updated": "2022-07-27T10:03:37",
     "year": "2020",
     "title": "Biyoloji",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["46.7", "22.4", "24.5", "6.4"],
     "publicGeneralOrder": "21",
     "publicGeneralValue": "41.5",
@@ -667,27 +366,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "37.8",
       "17.7",
@@ -709,29 +387,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["19.4", "27.7", "20.7", "32.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["67", "29", "3", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["8.6", "40.8", "16.2", "34.4"]
   },
   {
@@ -741,13 +398,6 @@
     "updated": "2022-07-27T09:33:07",
     "year": "2020",
     "title": "Biyomühendislik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["42.3", "22.1", "24.8", "10.8"],
     "publicGeneralOrder": "29",
     "publicGeneralValue": "31.9",
@@ -772,27 +422,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "26.1",
       "15.3",
@@ -814,29 +443,8 @@
       "0.2",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["23.3", "29.8", "19.4", "27.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["69", "23", "5", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["11.1", "49.3", "16.0", "23.6"]
   },
   {
@@ -846,13 +454,6 @@
     "updated": "2022-07-27T09:43:34",
     "year": "2020",
     "title": "Çalışma Ekonomisi",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["15.7", "23.1", "49.6", "11.6"],
     "publicGeneralOrder": "49",
     "publicGeneralValue": "21.9",
@@ -877,27 +478,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "25.1",
       "14.2",
@@ -919,29 +499,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["21.9", "27.3", "21.3", "29.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["77", "18", "3", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["12.3", "44.0", "15.6", "28.1"]
   },
   {
@@ -951,13 +510,6 @@
     "updated": "2022-07-27T09:37:27",
     "year": "2020",
     "title": "Çevre Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["57.3", "14.9", "18.4", "9.4"],
     "publicGeneralOrder": "42",
     "publicGeneralValue": "24.2",
@@ -982,27 +534,6 @@
       "Madencilik ve Taş Ocağı",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "29.4",
       "15.2",
@@ -1024,29 +555,8 @@
       "0.4",
       "0.3"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["29.5", "33.4", "17.8", "19.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["73", "19", "4", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["9.7", "45.8", "19.7", "24.8"]
   },
   {
@@ -1056,13 +566,6 @@
     "updated": "2022-07-27T10:41:14",
     "year": "2020",
     "title": "Çocuk Gelişimi",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["77.1", "5.5", "8.1", "9.3"],
     "publicGeneralOrder": "32",
     "publicGeneralValue": "31.5",
@@ -1087,27 +590,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "53.9",
       "30.8",
@@ -1129,29 +611,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["11.8", "52.2", "15.9", "20.1"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["69", "27", "2", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["8.3", "73.7", "7.8", "10.2"]
   },
   {
@@ -1161,13 +622,6 @@
     "updated": "2022-07-27T09:59:22",
     "year": "2020",
     "title": "Coğrafya",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["49.2", "16.8", "23.2", "10.8"],
     "publicGeneralOrder": "18",
     "publicGeneralValue": "43.7",
@@ -1192,27 +646,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "50.3",
       "10.5",
@@ -1234,29 +667,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["14.1", "24.8", "22.3", "38.8"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["67", "30", "3", "1"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["7.2", "40.9", "10.9", "41.0"]
   },
   {
@@ -1266,13 +678,6 @@
     "updated": "2022-07-27T09:51:59",
     "year": "2020",
     "title": "Diş Hekimliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["83.3", "2.4", "13.0", "1.3"],
     "publicGeneralOrder": "17",
     "publicGeneralValue": "43.8",
@@ -1297,27 +702,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "92.8",
       "2.0",
@@ -1339,29 +723,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["25.1", "33.1", "32.1", "9.7"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["50", "41", "6", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["3.1", "60.1", "16.0", "20.8"]
   },
   {
@@ -1371,13 +734,6 @@
     "updated": "2022-07-27T09:53:15",
     "year": "2020",
     "title": "Eczacılık",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["98.4", "1.1", "0.0", "0.5"],
     "publicGeneralOrder": "28",
     "publicGeneralValue": "34.5",
@@ -1402,27 +758,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "66.7",
       "13.8",
@@ -1444,29 +779,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["48.5", "11.3", "17.3", "22.9"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["48", "33", "10", "9"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["4.2", "65.8", "17.5", "12.5"]
   },
   {
@@ -1476,13 +790,6 @@
     "updated": "2022-07-27T09:47:11",
     "year": "2020",
     "title": "Ekonometri",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["16.4", "25.2", "47.7", "10.7"],
     "publicGeneralOrder": "66",
     "publicGeneralValue": "18.6",
@@ -1507,27 +814,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "25.1",
       "13.3",
@@ -1549,29 +835,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["19.9", "28.9", "21.6", "29.6"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["74", "20", "3", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.4", "45.1", "14.6", "26.9"]
   },
   {
@@ -1581,13 +846,6 @@
     "updated": "2022-07-27T09:31:07",
     "year": "2020",
     "title": "Elektrik ve Elektronik Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["67.6", "12.7", "13.1", "6.6"],
     "publicGeneralOrder": "55",
     "publicGeneralValue": "21.0",
@@ -1612,27 +870,6 @@
       "İnsan Sağlığı ve Sosyal Hizmet Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "25.2",
       "20.4",
@@ -1654,29 +891,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["13.5", "26.9", "23.1", "36.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["52", "22", "9", "16"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["15.8", "51.3", "15.1", "17.8"]
   },
   {
@@ -1686,13 +902,6 @@
     "updated": "2022-07-27T09:33:54",
     "year": "2020",
     "title": "Endüstri Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["52.1", "14.1", "23.9", "9.9"],
     "publicGeneralOrder": "71",
     "publicGeneralValue": "16.1",
@@ -1717,27 +926,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "38.0",
       "14.1",
@@ -1759,29 +947,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["8.8", "19.2", "26.9", "45.1"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["50", "22", "10", "18"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["19.3", "51.5", "14.3", "14.9"]
   },
   {
@@ -1791,13 +958,6 @@
     "updated": "2022-07-27T10:32:25",
     "year": "2020",
     "title": "Endüstriyel Tasarım",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["59.1", "16.6", "14.8", "9.5"],
     "publicGeneralOrder": "76",
     "publicGeneralValue": "13.9",
@@ -1822,27 +982,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "31.4",
       "17.7",
@@ -1864,29 +1003,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["27.0", "31.4", "21.7", "19.9"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["63", "22", "8", "8"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["18.5", "52.1", "15.5", "13.9"]
   },
   {
@@ -1896,13 +1014,6 @@
     "updated": "2022-07-27T09:44:09",
     "year": "2020",
     "title": "Felsefe",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["53.2", "13.2", "25.6", "8.0"],
     "publicGeneralOrder": "23",
     "publicGeneralValue": "38.4",
@@ -1927,27 +1038,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "49.4",
       "13.5",
@@ -1969,29 +1059,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["19.1", "33.1", "21.2", "26.6"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["67", "29", "3", "1"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["7.2", "50.6", "14.0", "28.2"]
   },
   {
@@ -2001,13 +1070,6 @@
     "updated": "2022-07-27T10:36:03",
     "year": "2020",
     "title": "Fen Bilgisi Öğretmenliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["77.0", "6.9", "11.6", "4.5"],
     "publicGeneralOrder": "7",
     "publicGeneralValue": "69.7",
@@ -2032,27 +1094,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "73.1",
       "5.8",
@@ -2074,29 +1115,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["15.6", "21.7", "24.2", "38.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["44", "46", "7", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["3.1", "49.1", "9.7", "38.1"]
   },
   {
@@ -2106,13 +1126,6 @@
     "updated": "2022-07-27T10:22:29",
     "year": "2020",
     "title": "Fizik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["53.3", "15.3", "24.6", "6.8"],
     "publicGeneralOrder": "24",
     "publicGeneralValue": "38.2",
@@ -2137,27 +1150,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "39.5",
       "14.4",
@@ -2179,29 +1171,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["20.4", "31.7", "20.5", "27.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["63", "27", "5", "6"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.1", "39.4", "15.6", "31.9"]
   },
   {
@@ -2211,13 +1182,6 @@
     "updated": "2022-07-27T10:42:02",
     "year": "2020",
     "title": "Fizik, Kimya ve Biyoloji Öğretmenliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["73.9", "8.0", "13.3", "4.8"],
     "publicGeneralOrder": "13",
     "publicGeneralValue": "51.7",
@@ -2242,27 +1206,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "71.9",
       "6.2",
@@ -2284,29 +1227,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["18.6", "31.5", "22.1", "27.8"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["56", "36", "4", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["4.8", "51.9", "10.7", "32.6"]
   },
   {
@@ -2316,13 +1238,6 @@
     "updated": "2022-07-27T10:28:55",
     "year": "2020",
     "title": "Fizyoterapi",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["81.7", "6.1", "4.5", "7.7"],
     "publicGeneralOrder": "73",
     "publicGeneralValue": "15.5",
@@ -2347,27 +1262,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "61.0",
       "27.6",
@@ -2389,29 +1283,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["10.2", "53.2", "15.7", "20.9"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["72", "22", "3", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["6.8", "70.5", "14.9", "7.8"]
   },
   {
@@ -2421,13 +1294,6 @@
     "updated": "2022-07-27T09:32:25",
     "year": "2020",
     "title": "Gemi Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["38.2", "34.6", "17.6", "9.6"],
     "publicGeneralOrder": "74",
     "publicGeneralValue": "14.1",
@@ -2452,27 +1318,6 @@
       "Tarım, Orman ve Balıkçılık",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "38.3",
       "25.9",
@@ -2494,29 +1339,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["9.6", "41.8", "20.5", "28.1"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["37", "14", "8", "42"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["16.8", "47.7", "15.0", "20.5"]
   },
   {
@@ -2526,13 +1350,6 @@
     "updated": "2022-07-27T09:36:10",
     "year": "2020",
     "title": "Gıda Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["63.3", "11.9", "17.5", "7.3"],
     "publicGeneralOrder": "63",
     "publicGeneralValue": "19.5",
@@ -2557,27 +1374,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "31.5",
       "31.3",
@@ -2599,29 +1395,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["18.1", "35.5", "23.0", "23.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["68", "19", "4", "9"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["9.7", "54.8", "17.4", "18.1"]
   },
   {
@@ -2631,13 +1406,6 @@
     "updated": "2022-07-27T10:16:29",
     "year": "2020",
     "title": "Güzel Sanatlar",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["47.5", "17.5", "26.2", "8.8"],
     "publicGeneralOrder": "45",
     "publicGeneralValue": "23.6",
@@ -2662,27 +1430,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "23.7",
       "19.0",
@@ -2704,29 +1451,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["25.0", "30.5", "21.3", "23.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["72", "20", "4", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.0", "47.7", "14.9", "24.4"]
   },
   {
@@ -2736,13 +1462,6 @@
     "updated": "2022-07-27T09:36:30",
     "year": "2020",
     "title": "Harita Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["62.3", "20.3", "8.0", "9.4"],
     "publicGeneralOrder": "47",
     "publicGeneralValue": "22.1",
@@ -2767,27 +1486,6 @@
       "Kültür, Sanat Eğlence, Dinlence ve Spor",
       "İnsan Sağlığı ve Sosyal Hizmet Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "37.2",
       "30.2",
@@ -2809,29 +1507,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["22.1", "30.4", "23.3", "24.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["67", "22", "7", "5"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["11.5", "53.1", "15.4", "20.0"]
   },
   {
@@ -2841,13 +1518,6 @@
     "updated": "2022-07-27T10:11:59",
     "year": "2020",
     "title": "Hemşirelik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["83.5", "7.6", "5.1", "3.8"],
     "publicGeneralOrder": "12",
     "publicGeneralValue": "52.4",
@@ -2872,27 +1542,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "78.3",
       "9.7",
@@ -2914,29 +1563,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["5.0", "10.0", "22.8", "62.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["50", "38", "10", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["5.9", "66.6", "13.4", "14.1"]
   },
   {
@@ -2946,13 +1574,6 @@
     "updated": "2022-07-27T09:42:30",
     "year": "2020",
     "title": "Hukuk",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["87.8", "4.1", "3.9", "4.2"],
     "publicGeneralOrder": "37",
     "publicGeneralValue": "27.4",
@@ -2977,27 +1598,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "79.4",
       "4.5",
@@ -3019,29 +1619,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["43.7", "19.8", "13.0", "23.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["52", "20", "8", "20"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["3.0", "53.9", "21.2", "21.9"]
   },
   {
@@ -3051,13 +1630,6 @@
     "updated": "2022-07-27T10:33:14",
     "year": "2020",
     "title": "İç Mimarlık",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["57.2", "14.1", "15.5", "13.2"],
     "publicGeneralOrder": "80",
     "publicGeneralValue": "7.0",
@@ -3082,27 +1654,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "22.1",
       "21.3",
@@ -3124,29 +1675,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["42.2", "31.7", "11.8", "14.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["74", "19", "4", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["16.9", "53.6", "15.2", "14.3"]
   },
   {
@@ -3156,13 +1686,6 @@
     "updated": "2022-07-27T09:44:53",
     "year": "2020",
     "title": "İktisat",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["17.8", "24.7", "46.1", "11.4"],
     "publicGeneralOrder": "48",
     "publicGeneralValue": "22.0",
@@ -3187,27 +1710,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "23.1",
       "15.0",
@@ -3229,29 +1731,8 @@
       "0.2",
       "0.2"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["22.1", "26.5", "20.0", "31.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["74", "19", "4", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["12.2", "42.9", "14.7", "30.2"]
   },
   {
@@ -3261,13 +1742,6 @@
     "updated": "2022-07-27T10:15:22",
     "year": "2020",
     "title": "İletişim",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["30.3", "23.9", "34.1", "11.7"],
     "publicGeneralOrder": "77",
     "publicGeneralValue": "13.7",
@@ -3292,27 +1766,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "20.4",
       "16.5",
@@ -3334,29 +1787,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["22.9", "32.1", "20.8", "24.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["76", "17", "4", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["15.2", "47.9", "14.8", "22.1"]
   },
   {
@@ -3366,13 +1798,6 @@
     "updated": "2022-07-27T09:39:21",
     "year": "2020",
     "title": "İmalat Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["58.6", "14.6", "18.9", "7.9"],
     "publicGeneralOrder": "75",
     "publicGeneralValue": "14.1",
@@ -3397,27 +1822,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "50.3",
       "10.3",
@@ -3439,29 +1843,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["13.3", "29.6", "24.2", "32.9"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["54", "23", "9", "14"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["18.0", "49.0", "15.9", "17.1"]
   },
   {
@@ -3471,13 +1854,6 @@
     "updated": "2022-07-27T09:30:36",
     "year": "2020",
     "title": "İnşaat Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["66.3", "14.3", "8.8", "10.6"],
     "publicGeneralOrder": "68",
     "publicGeneralValue": "17.5",
@@ -3502,27 +1878,6 @@
       "Kültür, Sanat Eğlence, Dinlence ve Spor",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "47.4",
       "29.3",
@@ -3544,29 +1899,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["14.2", "38.2", "19.7", "27.9"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["68", "20", "6", "5"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.5", "59.7", "14.3", "12.5"]
   },
   {
@@ -3576,13 +1910,6 @@
     "updated": "2022-07-27T10:07:22",
     "year": "2020",
     "title": "İslami Bilimler",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["75.4", "16.2", "5.1", "3.3"],
     "publicGeneralOrder": "3",
     "publicGeneralValue": "85.8",
@@ -3607,27 +1934,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "76.0",
       "5.8",
@@ -3649,29 +1955,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["14.9", "19.7", "29.3", "36.1"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["34", "56", "6", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["9.0", "60.8", "7.8", "22.4"]
   },
   {
@@ -3681,13 +1966,6 @@
     "updated": "2022-07-27T09:45:36",
     "year": "2020",
     "title": "İşletme",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["18.0", "25.3", "45.0", "11.7"],
     "publicGeneralOrder": "64",
     "publicGeneralValue": "19.5",
@@ -3712,27 +1990,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "24.3",
       "15.1",
@@ -3754,29 +2011,8 @@
       "0.2",
       "0.2"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["23.1", "27.2", "20.2", "29.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["73", "19", "4", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.2", "45.1", "14.7", "27.0"]
   },
   {
@@ -3786,13 +2022,6 @@
     "updated": "2022-07-27T10:40:31",
     "year": "2020",
     "title": "İşletme Yönetimi",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["20.8", "21.8", "45.5", "11.9"],
     "publicGeneralOrder": "54",
     "publicGeneralValue": "21.1",
@@ -3817,27 +2046,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "18.9",
       "14.5",
@@ -3859,29 +2067,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["23.9", "27.7", "21.9", "26.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["75", "19", "4", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["18.0", "48.4", "13.5", "20.1"]
   },
   {
@@ -3891,13 +2078,6 @@
     "updated": "2022-07-27T09:48:24",
     "year": "2020",
     "title": "İstatistik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["84.8", "13.3", "1.0", "0.9"],
     "publicGeneralOrder": "46",
     "publicGeneralValue": "22.7",
@@ -3922,27 +2102,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "22.4",
       "14.2",
@@ -3964,29 +2123,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["17.7", "28.2", "22.8", "31.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["66", "22", "6", "6"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["11.8", "38.7", "15.9", "33.6"]
   },
   {
@@ -3996,13 +2134,6 @@
     "updated": "2022-07-27T09:40:28",
     "year": "2020",
     "title": "Jeofizik Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["38.4", "18.2", "29.2", "14.2"],
     "publicGeneralOrder": "58",
     "publicGeneralValue": "20.6",
@@ -4027,27 +2158,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "24.6",
       "15.7",
@@ -4069,29 +2179,8 @@
       "0.3",
       "0.3"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["21.6", "33.6", "22.2", "22.6"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["75", "17", "4", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.3", "36.4", "18.4", "31.9"]
   },
   {
@@ -4101,13 +2190,6 @@
     "updated": "2022-07-27T09:37:02",
     "year": "2020",
     "title": "Jeoloji Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["49.2", "17.2", "22.1", "11.5"],
     "publicGeneralOrder": "61",
     "publicGeneralValue": "19.9",
@@ -4132,27 +2214,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "28.5",
       "20.8",
@@ -4174,29 +2235,8 @@
       "0.3",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["20.4", "27.2", "24.3", "28.1"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["69", "19", "6", "5"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["10.9", "41.3", "17.9", "29.9"]
   },
   {
@@ -4206,13 +2246,6 @@
     "updated": "2022-07-27T10:34:13",
     "year": "2020",
     "title": "Kentsel Tasarım ve Peyzaj Mimarlığı",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["52.8", "15.1", "19.3", "12.8"],
     "publicGeneralOrder": "52",
     "publicGeneralValue": "21.8",
@@ -4237,27 +2270,6 @@
       "Madencilik ve Taş Ocağı",
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "28.6",
       "19.4",
@@ -4279,29 +2291,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["34.2", "30.6", "15.7", "19.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["70", "21", "5", "5"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["11.2", "48.2", "20.4", "20.2"]
   },
   {
@@ -4311,13 +2302,6 @@
     "updated": "2022-07-27T10:21:08",
     "year": "2020",
     "title": "Kimya",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["49.8", "18.4", "25.1", "6.7"],
     "publicGeneralOrder": "33",
     "publicGeneralValue": "30.6",
@@ -4342,27 +2326,6 @@
       "Tarım, Orman ve Balıkçılık",
       "Gayrimenkul Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "27.0",
       "25.8",
@@ -4384,29 +2347,8 @@
       "0.3",
       "0.2"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["18.3", "30.1", "24.5", "27.1"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["64", "27", "5", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["11.1", "42.1", "16.8", "30.0"]
   },
   {
@@ -4416,13 +2358,6 @@
     "updated": "2022-07-27T09:34:17",
     "year": "2020",
     "title": "Kimya Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["53.2", "15.7", "24.3", "6.8"],
     "publicGeneralOrder": "56",
     "publicGeneralValue": "21.0",
@@ -4447,27 +2382,6 @@
       "Tarım, Orman ve Balıkçılık",
       "Gayrimenkul Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "49.4",
       "13.7",
@@ -4489,29 +2403,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["13.3", "26.1", "28.3", "32.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["57", "24", "8", "11"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["10.5", "46.4", "19.3", "23.8"]
   },
   {
@@ -4521,13 +2414,6 @@
     "updated": "2022-07-27T09:41:44",
     "year": "2020",
     "title": "Konservatuvar",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["74.7", "8.7", "11.0", "5.6"],
     "publicGeneralOrder": "16",
     "publicGeneralValue": "46.3",
@@ -4552,27 +2438,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "52.4",
       "14.5",
@@ -4594,29 +2459,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["13.2", "26.9", "29.4", "30.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["57", "23", "10", "10"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["12.5", "56.9", "9.6", "21.0"]
   },
   {
@@ -4626,13 +2470,6 @@
     "updated": "2022-07-27T09:35:16",
     "year": "2020",
     "title": "Maden Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["70.8", "11.0", "12.7", "5.5"],
     "publicGeneralOrder": "60",
     "publicGeneralValue": "20.4",
@@ -4657,27 +2494,6 @@
       "Gayrimenkul Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "41.1",
       "14.8",
@@ -4699,29 +2515,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["17.6", "29.8", "25.4", "27.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["48", "23", "12", "17"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["9.5", "47.6", "17.2", "25.7"]
   },
   {
@@ -4731,13 +2526,6 @@
     "updated": "2022-07-27T09:31:58",
     "year": "2020",
     "title": "Makine Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["65.4", "12.2", "15.3", "7.1"],
     "publicGeneralOrder": "53",
     "publicGeneralValue": "21.5",
@@ -4762,27 +2550,6 @@
       "Kamu İle İlgili Hizmetler",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "47.0",
       "15.6",
@@ -4804,29 +2571,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["13.8", "29.0", "24.0", "33.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["58", "22", "8", "12"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["14.7", "50.1", "15.4", "19.8"]
   },
   {
@@ -4836,13 +2582,6 @@
     "updated": "2022-07-27T09:45:57",
     "year": "2020",
     "title": "Maliye",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["17.9", "24.4", "46.2", "11.5"],
     "publicGeneralOrder": "36",
     "publicGeneralValue": "27.6",
@@ -4867,27 +2606,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "23.4",
       "17.9",
@@ -4909,29 +2627,8 @@
       "0.2",
       "0.2"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["27.3", "25.4", "17.8", "29.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["80", "17", "2", "1"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["9.9", "35.9", "13.8", "40.4"]
   },
   {
@@ -4941,13 +2638,6 @@
     "updated": "2022-07-27T09:37:52",
     "year": "2020",
     "title": "Malzeme Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["50.1", "17.0", "25.1", "7.8"],
     "publicGeneralOrder": "62",
     "publicGeneralValue": "19.9",
@@ -4972,27 +2662,6 @@
       "Kamu İle İlgili Hizmetler",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "54.3",
       "12.3",
@@ -5014,29 +2683,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["11.9", "26.3", "27.1", "34.7"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["58", "24", "9", "9"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["12.9", "43.0", "17.8", "26.3"]
   },
   {
@@ -5046,13 +2694,6 @@
     "updated": "2022-07-27T10:19:17",
     "year": "2020",
     "title": "Matematik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["77.2", "6.8", "11.3", "4.7"],
     "publicGeneralOrder": "15",
     "publicGeneralValue": "46.4",
@@ -5077,27 +2718,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "69.4",
       "5.8",
@@ -5119,29 +2739,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["18.2", "32.7", "21.2", "27.9"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["56", "35", "5", "5"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["9.5", "46.7", "13.7", "30.1"]
   },
   {
@@ -5151,13 +2750,6 @@
     "updated": "2022-07-27T10:36:57",
     "year": "2020",
     "title": "Matematik Öğretmenliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["93.6", "1.9", "3.0", "1.5"],
     "publicGeneralOrder": "2",
     "publicGeneralValue": "86.0",
@@ -5182,27 +2774,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "83.7",
       "5.0",
@@ -5224,29 +2795,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["10.3", "16.2", "25.4", "48.1"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["34", "51", "7", "7"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["1.7", "57.3", "7.5", "33.5"]
   },
   {
@@ -5256,13 +2806,6 @@
     "updated": "2022-08-08T10:57:36",
     "year": "2020",
     "title": "Mimarlık",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["66.9", "11.2", "9.6", "12.3"],
     "publicGeneralOrder": "79",
     "publicGeneralValue": "10.4",
@@ -5287,27 +2830,6 @@
       "Madencilik ve Taş Ocağı",
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "42.7",
       "28.7",
@@ -5329,29 +2851,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["40.1", "33.8", "11.7", "14.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["69", "22", "5", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["14.4", "58.4", "16.3", "10.9"]
   },
   {
@@ -5361,13 +2862,6 @@
     "updated": "2022-07-27T10:27:41",
     "year": "2020",
     "title": "Odyoloji",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["66.9", "8.6", "5.4", "19.1"],
     "publicGeneralOrder": "70",
     "publicGeneralValue": "16.6",
@@ -5392,27 +2886,6 @@
       "Kamu İle İlgili Hizmetler",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "41.3",
       "34.7",
@@ -5434,29 +2907,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["15.3", "41.0", "12.5", "31.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["69", "25", "3", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["7.7", "80.0", "9.2", "3.1"]
   },
   {
@@ -5466,13 +2918,6 @@
     "updated": "2022-08-08T12:47:19",
     "year": "2020",
     "title": "Öğretmenlik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["73.8", "10.6", "11.3", "4.3"],
     "publicGeneralOrder": "14",
     "publicGeneralValue": "50.0",
@@ -5497,27 +2942,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "61.6",
       "7.0",
@@ -5539,29 +2963,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["11.9", "28.7", "26.9", "32.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["55", "33", "7", "6"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["7.5", "58.7", "7.8", "26.0"]
   },
   {
@@ -5571,13 +2974,6 @@
     "updated": "2022-07-27T10:38:02",
     "year": "2020",
     "title": "Okul Öncesi Öğretmenliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["89.1", "3.2", "5.6", "2.1"],
     "publicGeneralOrder": "6",
     "publicGeneralValue": "70.5",
@@ -5602,27 +2998,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "71.9",
       "10.9",
@@ -5644,29 +3019,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["12.2", "26.3", "25.1", "36.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["43", "48", "7", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["2.8", "63.7", "6.3", "27.2"]
   },
   {
@@ -5676,13 +3030,6 @@
     "updated": "2022-07-27T10:43:26",
     "year": "2020",
     "title": "Orman Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["46.4", "18.2", "22.9", "12.5"],
     "publicGeneralOrder": "50",
     "publicGeneralValue": "21.9",
@@ -5707,27 +3054,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "20.4",
       "19.9",
@@ -5749,29 +3075,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["30.1", "30.4", "18.2", "21.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["61", "26", "11", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["9.3", "34.4", "18.1", "38.2"]
   },
   {
@@ -5781,13 +3086,6 @@
     "updated": "2022-07-27T09:34:43",
     "year": "2020",
     "title": "Otomotiv Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["48.3", "17.6", "25.3", "8.8"],
     "publicGeneralOrder": "59",
     "publicGeneralValue": "20.4",
@@ -5812,27 +3110,6 @@
       "Gayrimenkul Faaliyetleri",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "45.9",
       "13.3",
@@ -5854,29 +3131,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["9.7", "25.3", "25.4", "39.6"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["60", "22", "8", "10"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.3", "48.1", "17.4", "21.2"]
   },
   {
@@ -5886,13 +3142,6 @@
     "updated": "2022-07-27T09:38:56",
     "year": "2020",
     "title": "Petrol Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["53.6", "15.8", "20.4", "10.2"],
     "publicGeneralOrder": "43",
     "publicGeneralValue": "24.2",
@@ -5917,27 +3166,6 @@
       "Kültür, Sanat Eğlence, Dinlence ve Spor",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "21.2",
       "18.2",
@@ -5959,29 +3187,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["17.1", "28.7", "23.7", "30.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["63", "21", "7", "9"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.4", "51.5", "15.8", "19.3"]
   },
   {
@@ -5991,13 +3198,6 @@
     "updated": "2022-07-27T09:41:12",
     "year": "2020",
     "title": "Pilotaj",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["93.8", "1.5", "2.7", "2.0"],
     "publicGeneralOrder": "81",
     "publicGeneralValue": "6.4",
@@ -6022,27 +3222,6 @@
       "İnsan Sağlığı ve Sosyal Hizmet Faaliyetleri",
       "İnşaat"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "86.8",
       "7.3",
@@ -6064,29 +3243,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["2.5", "8.7", "0.4", "88.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["23", "3", "1", "74"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["12.0", "52.5", "26.4", "9.1"]
   },
   {
@@ -6096,13 +3254,6 @@
     "updated": "2022-07-27T10:00:34",
     "year": "2020",
     "title": "Psikoloji",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["64.4", "7.8", "16.0", "11.8"],
     "publicGeneralOrder": "69",
     "publicGeneralValue": "17.0",
@@ -6127,27 +3278,6 @@
       "Tarım, Orman ve Balıkçılık",
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "37.8",
       "24.8",
@@ -6169,29 +3299,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["23.1", "35.2", "18.0", "23.7"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["74", "20", "4", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["7.4", "54.1", "16.4", "22.1"]
   },
   {
@@ -6201,13 +3310,6 @@
     "updated": "2022-07-27T10:02:30",
     "year": "2020",
     "title": "Psikolojik Danışmanlık ve Rehberlik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["82.8", "4.8", "8.3", "4.1"],
     "publicGeneralOrder": "9",
     "publicGeneralValue": "63.5",
@@ -6232,27 +3334,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "68.1",
       "6.1",
@@ -6274,29 +3355,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["10.7", "24.0", "24.1", "41.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["48", "38", "9", "6"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["2.2", "51.8", "10.4", "35.6"]
   },
   {
@@ -6306,13 +3366,6 @@
     "updated": "2022-07-27T10:12:56",
     "year": "2020",
     "title": "Sağlık Hizmetleri",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["33.9", "36.4", "15.1", "14.6"],
     "publicGeneralOrder": "25",
     "publicGeneralValue": "38.1",
@@ -6337,27 +3390,6 @@
       "Finans ve Sigorta Faaliyetleri",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "24.7",
       "21.3",
@@ -6379,29 +3411,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["9.9", "31.2", "17.9", "41.0"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["70", "24", "5", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["15.1", "68.4", "7.7", "8.8"]
   },
   {
@@ -6411,13 +3422,6 @@
     "updated": "2022-07-27T10:29:54",
     "year": "2020",
     "title": "Sağlık Yönetimi",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["19.6", "23.6", "45.9", "10.9"],
     "publicGeneralOrder": "19",
     "publicGeneralValue": "43.2",
@@ -6442,27 +3446,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "31.1",
       "19.0",
@@ -6484,29 +3467,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["12.2", "14.8", "18.7", "54.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["80", "18", "1", "1"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["11.8", "55.1", "11.9", "21.2"]
   },
   {
@@ -6516,13 +3478,6 @@
     "updated": "2022-07-27T10:38:56",
     "year": "2020",
     "title": "Sınıf Öğretmenliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["90.9", "2.2", "4.6", "2.3"],
     "publicGeneralOrder": "4",
     "publicGeneralValue": "78.7",
@@ -6547,27 +3502,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "81.7",
       "4.5",
@@ -6589,29 +3523,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["6.9", "15.2", "28.1", "49.8"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["34", "49", "8", "9"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["1.6", "60.5", "5.8", "32.1"]
   },
   {
@@ -6621,13 +3534,6 @@
     "updated": "2022-07-27T09:49:17",
     "year": "2020",
     "title": "Siy. Bil. Kamu Yön. Ulus. İliş.",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["19.9", "24.8", "42.6", "12.7"],
     "publicGeneralOrder": "40",
     "publicGeneralValue": "24.8",
@@ -6652,27 +3558,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "22.7",
       "14.4",
@@ -6694,29 +3579,8 @@
       "0.2",
       "0.2"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["20.9", "25.5", "20.3", "33.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["74", "19", "3", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["10.7", "41.1", "13.8", "34.4"]
   },
   {
@@ -6726,13 +3590,6 @@
     "updated": "2022-07-27T10:35:07",
     "year": "2020",
     "title": "Sosyal Bilgiler Öğretmenliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["59.6", "13.6", "18.3", "8.5"],
     "publicGeneralOrder": "8",
     "publicGeneralValue": "63.7",
@@ -6757,27 +3614,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "61.4",
       "8.2",
@@ -6799,29 +3635,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["12.2", "18.5", "23.1", "46.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["53", "40", "5", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["3.3", "44.2", "9.6", "42.9"]
   },
   {
@@ -6831,13 +3646,6 @@
     "updated": "2022-07-27T10:18:08",
     "year": "2020",
     "title": "Sosyal Hizmetler",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["41.0", "24.0", "20", "15.0"],
     "publicGeneralOrder": "22",
     "publicGeneralValue": "40.7",
@@ -6862,27 +3670,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "31.1",
       "18.0",
@@ -6904,29 +3691,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["18.9", "30.7", "21.7", "28.7"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["69", "21", "7", "4"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["7.0", "52.3", "17.1", "23.6"]
   },
   {
@@ -6936,13 +3702,6 @@
     "updated": "2022-07-27T09:57:26",
     "year": "2020",
     "title": "Sosyoloji",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["42.4", "15.1", "30.9", "11.6"],
     "publicGeneralOrder": "27",
     "publicGeneralValue": "36.3",
@@ -6967,27 +3726,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "36.9",
       "14.7",
@@ -7009,29 +3747,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["19.7", "29.6", "20.3", "30.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["69", "25", "4", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["7.5", "48.5", "15.1", "28.9"]
   },
   {
@@ -7041,13 +3758,6 @@
     "updated": "2022-07-27T09:40:48",
     "year": "2020",
     "title": "Spor Bilimleri",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["32.1", "36.3", "21.7", "9.9"],
     "publicGeneralOrder": "26",
     "publicGeneralValue": "36.9",
@@ -7072,27 +3782,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "37.6",
       "14.1",
@@ -7114,29 +3803,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["15.5", "25.0", "26.5", "33.0"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["71", "23", "4", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["16.6", "49.2", "11.2", "23.0"]
   },
   {
@@ -7146,13 +3814,6 @@
     "updated": "2022-07-27T09:55:54",
     "year": "2020",
     "title": "Su Ürünleri",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["29.5", "22.2", "36.2", "12.1"],
     "publicGeneralOrder": "65",
     "publicGeneralValue": "19.0",
@@ -7177,27 +3838,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "22.6",
       "16.8",
@@ -7219,29 +3859,8 @@
       "0.2",
       "0.2"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["18.6", "31.4", "26.6", "23.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["74", "19", "4", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["13.1", "33.7", "15.2", "38.0"]
   },
   {
@@ -7251,13 +3870,6 @@
     "updated": "2022-07-27T09:43:01",
     "year": "2020",
     "title": "Tarih",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["38.9", "19.5", "29.6", "12.0"],
     "publicGeneralOrder": "20",
     "publicGeneralValue": "42.0",
@@ -7282,27 +3894,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "39.0",
       "17.2",
@@ -7324,29 +3915,8 @@
       "0.1",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["17.9", "25.6", "21.3", "35.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["66", "30", "3", "1"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["8.0", "43.8", "14.9", "33.3"]
   },
   {
@@ -7356,13 +3926,6 @@
     "updated": "2022-07-27T10:20:20",
     "year": "2020",
     "title": "Teknik Eğitim",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["26.2", "34.9", "29.7", "9.2"],
     "publicGeneralOrder": "35",
     "publicGeneralValue": "28.1",
@@ -7387,27 +3950,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "21.0",
       "16.9",
@@ -7429,29 +3971,8 @@
       "0.1",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["13.7", "20.5", "20.1", "45.7"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["65", "17", "6", "12"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["17.2", "49.7", "15.7", "17.4"]
   },
   {
@@ -7461,13 +3982,6 @@
     "updated": "2022-07-27T09:39:52",
     "year": "2020",
     "title": "Tekstil Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["46.0", "16.6", "31.9", "5.5"],
     "publicGeneralOrder": "67",
     "publicGeneralValue": "17.7",
@@ -7492,27 +4006,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "64.9",
       "14.6",
@@ -7534,29 +4027,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["7.0", "15.3", "29.3", "48.4"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["58", "26", "9", "7"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["27.4", "49.3", "11.4", "11.9"]
   },
   {
@@ -7566,13 +4038,6 @@
     "updated": "2022-07-27T09:51:02",
     "year": "2020",
     "title": "Tıp",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["83.0", "13.4", "2.2", "1.4"],
     "publicGeneralOrder": "1",
     "publicGeneralValue": "94.0",
@@ -7597,27 +4062,6 @@
       "Tarım, Orman ve Balıkçılık",
       "Yiyecek ve İçecek Hizmeti Faaliyetleri, Konaklama"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "88.9",
       "7.9",
@@ -7639,29 +4083,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["0.6", "2.9", "17.7", "78.8"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["", "14", "34", "52"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["0.3", "54.2", "15.0", "30.5"]
   },
   {
@@ -7671,13 +4094,6 @@
     "updated": "2022-08-08T12:50:23",
     "year": "2020",
     "title": "Turizm",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["10.7", "18.4", "59.6", "11.3"],
     "publicGeneralOrder": "72",
     "publicGeneralValue": "15.6",
@@ -7702,27 +4118,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "51.4",
       "13.3",
@@ -7744,29 +4139,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["14.8", "25.4", "25.9", "33.9"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["73", "21", "4", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["26.1", "49.1", "10.1", "14.7"]
   },
   {
@@ -7776,13 +4150,6 @@
     "updated": "2022-07-27T10:04:54",
     "year": "2020",
     "title": "Türk Dili ve Edebiyatı",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["59.8", "12.5", "20.0", "7.7"],
     "publicGeneralOrder": "11",
     "publicGeneralValue": "54.1",
@@ -7807,27 +4174,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "59.6",
       "10.8",
@@ -7849,29 +4195,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["17.7", "27.0", "23.1", "32.2"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["59", "37", "3", "2"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["5.7", "43.0", "12.5", "38.8"]
   },
   {
@@ -7881,13 +4206,6 @@
     "updated": "2022-07-27T10:39:49",
     "year": "2020",
     "title": "Türkçe Öğretmenliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["79.6", "5.9", "9.9", "4.6"],
     "publicGeneralOrder": "5",
     "publicGeneralValue": "78.1",
@@ -7912,27 +4230,6 @@
       "Madencilik ve Taş Ocağı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "73.7",
       "5.0",
@@ -7954,29 +4251,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["10.6", "17.4", "24.1", "47.9"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["40", "47", "7", "6"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["2.1", "47.8", "7.6", "42.5"]
   },
   {
@@ -7986,13 +4262,6 @@
     "updated": "2022-07-27T09:38:23",
     "year": "2020",
     "title": "Uçak Mühendisliği",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["78.3", "7.2", "8.1", "6.4"],
     "publicGeneralOrder": "41",
     "publicGeneralValue": "24.7",
@@ -8017,27 +4286,6 @@
       "Madencilik ve Taş Ocağı",
       "Tarım, Orman ve Balıkçılık"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "44.7",
       "16.3",
@@ -8059,29 +4307,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["7.3", "14.1", "20.1", "58.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve Üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["34", "13", "9", "44"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["14.6", "54.2", "16.6", "14.6"]
   },
   {
@@ -8091,13 +4318,6 @@
     "updated": "2022-07-27T10:26:45",
     "year": "2020",
     "title": "Uluslararası Ticaret",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["14.4", "30.1", "42.7", "12.8"],
     "publicGeneralOrder": "78",
     "publicGeneralValue": "11.1",
@@ -8122,27 +4342,6 @@
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "22.7",
       "16.5",
@@ -8164,29 +4363,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["21.3", "30.9", "23.3", "24.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["70", "20", "5", "5"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["19.4", "50.4", "13.1", "17.1"]
   },
   {
@@ -8196,13 +4374,6 @@
     "updated": "2022-07-27T09:54:38",
     "year": "2020",
     "title": "Veterinerlik",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["74.3", "8.6", "10.9", "6.2"],
     "publicGeneralOrder": "44",
     "publicGeneralValue": "23.6",
@@ -8227,27 +4398,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Madencilik ve Taş Ocağı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "33.0",
       "20.9",
@@ -8269,29 +4419,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["33.8", "28.3", "14.6", "23.3"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["54", "20", "10", "16"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["5.6", "53.2", "18.4", "22.8"]
   },
   {
@@ -8301,13 +4430,6 @@
     "updated": "2022-07-27T10:25:43",
     "year": "2020",
     "title": "Yabancı Diller",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["61.1", "11.1", "22.0", "5.8"],
     "publicGeneralOrder": "31",
     "publicGeneralValue": "31.5",
@@ -8332,27 +4454,6 @@
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı",
       "Su Temini: Kanalizasyon, Atık Yönetimi ve İyileştirme Faaliyetleri"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "52.8",
       "8.9",
@@ -8374,29 +4475,8 @@
       "0.0",
       "0.0"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["19.2", "29.7", "25.6", "25.5"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["55", "32", "7", "7"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["10.7", "59.1", "11.3", "18.9"]
   },
   {
@@ -8406,13 +4486,6 @@
     "updated": "2022-07-27T10:17:14",
     "year": "2020",
     "title": "Ziraat ve Tarım",
-    "lQualityGeneralTitle": [
-      "Niteliklerine Uygun İşlerde Çalışanlar",
-      "Düşük Nitelik Uyuşmazlığı",
-      "Orta Derece Nitelik Uyuşmazlığı",
-      "Yüksek Nitelik Uyuşmazlığı"
-    ],
-    "lQualityGeneralContent": ["", "", "", ""],
     "lQualityGeneralRate": ["39.7", "20.1", "27.8", "12.4"],
     "publicGeneralOrder": "39",
     "publicGeneralValue": "26.4",
@@ -8437,27 +4510,6 @@
       "Madencilik ve Taş Ocağı",
       "Elektrik, Gaz, Buhar ve İklimlendirme Üretimi ve Dağıtımı"
     ],
-    "lSectorDistributionContent": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
     "lSectorDistributionRate": [
       "23.3",
       "13.3",
@@ -8479,29 +4531,8 @@
       "0.2",
       "0.1"
     ],
-    "lCompanyDistributionTitle": [
-      "Mikro Ölçekli Firma (1-9 Kişi)",
-      "Küçük Ölçekli Firma (10-49 Kişi)",
-      "Orta Ölçekli Firma (50-249 Kişi)",
-      "Büyük Ölçekli Firma (250+ Kişi)"
-    ],
-    "lCompanyDistributionContent": ["", "", "", ""],
     "lCompanyDistributionRate": ["26.2", "29.1", "21.7", "23.0"],
-    "lPriceDistributionTitle": [
-      "4250 ₺-5999 ₺",
-      "6000 ₺-7999 ₺",
-      "8000 ₺-9999 ₺",
-      "10000 ₺ ve üzeri"
-    ],
-    "lPriceDistributionContent": ["", "", "", ""],
     "lPriceDistributionRate": ["73", "20", "4", "3"],
-    "lEmploymentTimeDistributionTitle": [
-      "Mezun Olmadan Önce*",
-      "0-6 Ay",
-      "6-12 Ay",
-      "12+ Ay"
-    ],
-    "lEmploymentTimeDistributionContent": ["", "", "", ""],
     "lEmploymentTimeDistributionRate": ["9.2", "42.3", "15.7", "32.8"]
   }
 ]
