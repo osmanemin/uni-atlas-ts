@@ -6,7 +6,13 @@ import ColumnOfGraph from "../../molecules/ColumnOfGraph";
 
 type GraphOfReportProps = {
   data: any;
-  indicatorType: "lQualityGeneral" | "lPriceDistribution" | "lEmploymentTimeDistribution" | "lCompanyDistribution";
+  compareData: any;
+  count: any;
+  indicatorType:
+    | "lQualityGeneral"
+    | "lPriceDistribution"
+    | "lEmploymentTimeDistribution"
+    | "lCompanyDistribution";
 };
 
 const indicators = {
@@ -38,8 +44,11 @@ const indicators = {
 
 export default function GraphOfReport({
   data,
+  compareData,
   indicatorType,
+  count
 }: GraphOfReportProps): JSX.Element {
+  const initialRates = ["0","0","0","0"]
   return (
     <div className={styles.container}>
       <div className={styles.background}>
@@ -62,20 +71,20 @@ export default function GraphOfReport({
       </div>
       <div className={styles.content}>
         {(
-          (data && indicatorType && data[`${indicatorType}Rate`]) || [
-            "0",
-            "0",
-            "0",
-            "0",
-          ]
+          (data && indicatorType && data[`${indicatorType}Rate`]) || initialRates
         ).map((rate: any, index: number) => (
           <ColumnOfGraph
             percent={rate}
+            comparePercent={
+              compareData && compareData[`${indicatorType}Rate`] && compareData[`${indicatorType}Rate`][index] || count === 2  && "0"
+            }
             key={index}
             title={
               (data && indicatorType && data[`${indicatorType}Title`]
                 ? data[`${indicatorType}Title`][index]
-                : indicators[`${indicatorType}Title`] ? indicators[`${indicatorType}Title`][index] : "") || ""
+                : indicators[`${indicatorType}Title`]
+                ? indicators[`${indicatorType}Title`][index]
+                : "") || ""
             }
           />
         ))}

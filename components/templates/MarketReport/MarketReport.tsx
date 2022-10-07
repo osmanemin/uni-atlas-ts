@@ -43,6 +43,8 @@ export default function MarketReport(): JSX.Element {
         </div>
         <GraphOfReport
           data={context.reports[context.selectedDepartments.first]}
+          compareData={context.reports[context.selectedDepartments.second]}
+          count={context.maxSelectedDepartmentCount}
           indicatorType={context.selectedDepartments.indicatorType}
         />
       </CompareReport>
