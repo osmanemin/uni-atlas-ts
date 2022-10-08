@@ -1,11 +1,14 @@
-import React, { useState, useContext } from "react";
+import React, { useState } from "react";
 
 import styles from "./compareMenu.module.scss";
 
-import { Context } from "../../../storage/Context";
+type CompareMenu = {
+  setMaxSelectedDepartmentCount: React.Dispatch<React.SetStateAction<number>>;
+};
 
-export default function CompareMenu(): JSX.Element {
-  const context = useContext(Context);
+export default function CompareMenu({
+  setMaxSelectedDepartmentCount,
+}: CompareMenu): JSX.Element {
   const [margin, setMargin] = useState("10px");
   const [textColorOne, setTextColorOne] = useState("white");
   const [textColorTwo, setTextColorTwo] = useState("black");
@@ -19,7 +22,7 @@ export default function CompareMenu(): JSX.Element {
             setMargin("10px");
             setTextColorTwo("black");
             setTextColorOne("white");
-            context.setMaxSelectedDepartmentCount(1);
+            setMaxSelectedDepartmentCount(1);
           }}
           style={{ color: textColorOne }}
           className={styles.title}
@@ -31,7 +34,7 @@ export default function CompareMenu(): JSX.Element {
             setMargin("calc(50% + 5px)");
             setTextColorTwo("white");
             setTextColorOne("black");
-            context.setMaxSelectedDepartmentCount(2);
+            setMaxSelectedDepartmentCount(2);
           }}
           style={{ color: textColorTwo }}
           className={styles.title}

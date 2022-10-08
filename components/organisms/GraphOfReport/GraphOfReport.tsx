@@ -8,11 +8,7 @@ type GraphOfReportProps = {
   data: any;
   compareData: any;
   count: any;
-  indicatorType:
-    | "lQualityGeneral"
-    | "lPriceDistribution"
-    | "lEmploymentTimeDistribution"
-    | "lCompanyDistribution";
+  indicatorType: Indicator;
 };
 
 const indicators = {
@@ -46,9 +42,9 @@ export default function GraphOfReport({
   data,
   compareData,
   indicatorType,
-  count
+  count,
 }: GraphOfReportProps): JSX.Element {
-  const initialRates = ["0","0","0","0"]
+  const initialRates = ["0", "0", "0", "0"];
   return (
     <div className={styles.container}>
       <div className={styles.background}>
@@ -71,12 +67,16 @@ export default function GraphOfReport({
       </div>
       <div className={styles.content}>
         {(
-          (data && indicatorType && data[`${indicatorType}Rate`]) || initialRates
+          (data && indicatorType && data[`${indicatorType}Rate`]) ||
+          initialRates
         ).map((rate: any, index: number) => (
           <ColumnOfGraph
             percent={rate}
             comparePercent={
-              compareData && compareData[`${indicatorType}Rate`] && compareData[`${indicatorType}Rate`][index] || count === 2  && "0"
+              (compareData &&
+                compareData[`${indicatorType}Rate`] &&
+                compareData[`${indicatorType}Rate`][index]) ||
+              (count === 2 && "0")
             }
             key={index}
             title={

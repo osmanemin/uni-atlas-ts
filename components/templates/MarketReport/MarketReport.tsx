@@ -1,18 +1,13 @@
-import React, { useContext } from "react";
+import React from "react";
 
 import styles from "./marketReport.module.scss";
 
-import AnalyzeFilter from "../../organisms/AnalyzeFilter";
 import ScrollBottom from "../../molecules/ScrollButton";
 import Summary from "../../molecules/Summary";
 import CompareReport from "../../organisms/CompareReport";
-import CompareMenu from "../../molecules/CompareMenu";
 import MasterComponent from "../MasterComponent";
-import GraphOfReport from "../../organisms/GraphOfReport";
-import { Context } from "../../../storage/Context";
 
 export default function MarketReport(): JSX.Element {
-  const context = useContext(Context);
   return (
     <>
       <MasterComponent
@@ -31,23 +26,7 @@ export default function MarketReport(): JSX.Element {
         />
         <ScrollBottom />
       </MasterComponent>
-      <CompareReport>
-        <CompareMenu />
-        <div className={styles.flexCenter}>
-          <img
-            className={styles.img}
-            src="/analyze.jpg"
-            alt="bölüm karşılaştırma"
-          />
-          <AnalyzeFilter />
-        </div>
-        <GraphOfReport
-          data={context.reports[context.selectedDepartments.first]}
-          compareData={context.reports[context.selectedDepartments.second]}
-          count={context.maxSelectedDepartmentCount}
-          indicatorType={context.selectedDepartments.indicatorType}
-        />
-      </CompareReport>
+      <CompareReport/>
     </>
   );
 }

@@ -1,0 +1,4 @@
+type UniversityPageProps = {
+    university: University;
+  };
+  

@@ -4,14 +4,14 @@ import findOne from "../../api/findOne";
 
 import Head from "../../components/molecules/Head";
 import UniversityDetail from "../../components/templates/UniversityDetail/UniversityDetail";
-import { UniversityContext } from "../../storage/Context";
+import UniversityDetailContext from "../../storage/UniversityDetailContext";
 
-export default function Uni(university: University) {
+export default function Uni({university}: UniversityPageProps) {
   return (
-    <UniversityContext.Provider value={university}>
+    <UniversityDetailContext.Provider value={university}>
       <Head />
       <UniversityDetail />
-    </UniversityContext.Provider>
+    </UniversityDetailContext.Provider>
   );
 }
 

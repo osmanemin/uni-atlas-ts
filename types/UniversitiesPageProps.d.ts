@@ -1,0 +1,4 @@
+type UniversitiesPageProps = {
+    universities: University[];
+  };
+  

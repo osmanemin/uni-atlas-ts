@@ -2,37 +2,24 @@ import React, { useState } from "react";
 import findAll from "../api/findAll";
 
 import MarketReport from "../components/templates/MarketReport/MarketReport";
-import { Context } from "../storage/Context";
+import ReportContext from "../storage/ReportContext";
 
-export default function PiyasaReport({reports}: {reports :Report[]}) {
-  const [selectedDepartments, setSelectedDepartments] = useState({
-    first: -1,
-    second: -1,
-    indicatorType: ""
-  });
-
-  const [maxSelectedDepartmentCount, setMaxSelectedDepartmentCount] =
-    useState(1);
-
+export default function Report({ reports }: ReportPageProps) {
   return (
-    <Context.Provider
-      value={{
-        reports,
-        selectedDepartments,
-        setSelectedDepartments,
-        maxSelectedDepartmentCount,
-        setMaxSelectedDepartmentCount,
-      }}
-    >
+    <ReportContext.Provider value={{ reports }}>
       <MarketReport />
-    </Context.Provider>
+    </ReportContext.Provider>
   );
 }
 
 export async function getStaticProps() {
   const reports: Report[] = [];
-  await findAll({ data: reports, collectionName: "reports", sort: {title: "1"} });
+  await findAll({
+    data: reports,
+    collectionName: "reports",
+    sort: { title: "1" },
+  });
   return {
-    props: {reports: reports} ,
+    props: { reports: reports },
   };
 }

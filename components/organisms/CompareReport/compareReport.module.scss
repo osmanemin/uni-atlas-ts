@@ -1,0 +1,11 @@
+.flexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .img {
+      width: 500px;
+      height: 330px;
+      margin-left: -30px;
+    }
+  }
+  

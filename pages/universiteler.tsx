@@ -2,17 +2,13 @@ import React from "react";
 import findAll from "../api/findAll";
 
 import Universities from "../components/templates/Universities/Universities";
-import { Context } from "../storage/Context";
+import UniversitiesContext from "../storage/UniversitiesContext";
 
-type UniversitelerProps = {
-  universities: University[];
-};
-
-export default function Universitelerr({ universities }: UniversitelerProps) {
+export default function UniversityPage({ universities }: UniversitiesPageProps) {
   return (
-    <Context.Provider value={{ universities }}>
+    <UniversitiesContext.Provider value={{ universities }}>
       <Universities />
-    </Context.Provider>
+    </UniversitiesContext.Provider>
   );
 }
 

@@ -2,11 +2,11 @@ import React, { useContext } from "react";
 
 import styles from "./universityCardList.module.scss";
 
-import { Context } from "../../../storage/Context";
+import UniversitiesContext from "../../../storage/UniversitiesContext";
 import UniversityCard from "../../molecules/UniversityCard";
 
 export default function UniversityCardList(): JSX.Element {
-  const context = useContext(Context);
+  const context = useContext(UniversitiesContext);
 
   return (
     <div className={styles.container}>
