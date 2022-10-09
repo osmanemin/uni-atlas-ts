@@ -15,7 +15,7 @@ export default function Universities(): JSX.Element {
     <>
       <MasterComponent
         title="Üniversiteler"
-        color="#FF1F3E"
+        color="rgba(255, 31, 62, 0.85)"
         classBg={styles.bgImage}
       >
         <Summary

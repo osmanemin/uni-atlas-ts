@@ -12,7 +12,7 @@ export default function MarketReport(): JSX.Element {
     <>
       <MasterComponent
         title="Piyasa Raporu"
-        color="#f2ce16"
+        color="rgb(242, 206, 22, 0.85)"
         classBg={styles.bgImage}
       >
         <Summary
