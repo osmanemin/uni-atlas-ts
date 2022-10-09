@@ -1,11 +1,28 @@
 .flexCenter {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .img {
+    width: 500px;
+    height: 330px;
+    margin-left: -30px;
+  }
+}
+
+@media (max-width: 580px) {
+  .flexCenter {
     .img {
-      width: 500px;
-      height: 330px;
-      margin-left: -30px;
+      margin: 20px;
+      width: 100%;
+      height: auto;
     }
   }
-  
+}
+@media (max-width: 940px) {
+  .flexCenter {
+    flex-direction: column;
+    .img {
+      display: none;
+    }
+  }
+}

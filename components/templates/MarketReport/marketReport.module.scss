@@ -14,24 +14,7 @@
   }
 }
 
-@media (max-width: 940px) {
-  .flexCenter {
-    flex-direction: column;
-    .img {
-      display: none;
-    }
-  }
-}
-
 @media (max-width: 580px) {
-  .flexCenter {
-    .img {
-      margin: 20px;
-      width: 100%;
-      height: auto;
-    }
-  }
-
   .bgImage {
     margin-top: 0;
     background-position: 23% 0;
