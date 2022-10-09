@@ -28,8 +28,6 @@ export default function Universities({
   };
 
   useEffect(() => {
-    console.log("sort değişti");
-
     setFilteredUniversities(
       universities
         .filter((uni) => uni.name.toLocaleLowerCase("tr").includes(search))
