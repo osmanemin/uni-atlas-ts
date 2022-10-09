@@ -21,7 +21,7 @@ export default function Universities({
     setSearch(value);
   };
   const handleSort = (value: number) => {
-    setSort(value);
+    setSort(value || 0);
     setFilteredUniversities((prev) => {
       return [...prev].sort(() => -1);
     });
