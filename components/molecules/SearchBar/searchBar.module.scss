@@ -1,19 +1,17 @@
-.container{
-    display: flex;
-    align-items: center;
-    padding: 8px 20px;
-    background-color: #EDEDED;
-    width: 41%;
-    border-radius: 20px;
+.container {
+  display: flex;
+  align-items: center;
+  padding: 8px 20px;
+  background-color: #ededed;
+  width: 41%;
+  border-radius: 20px;
 
-    .icon{
-    }
-
-    .input{
-        margin-left: 20px;
-        background-color: #EDEDED;
-        width: 70%;
-        outline: none;
-        border: none;
-    }
+  .input {
+    margin-left: 20px;
+    background-color: #ededed;
+    width: calc(100% - 60px);
+    height: 100%;
+    outline: none;
+    border: none;
+  }
 }

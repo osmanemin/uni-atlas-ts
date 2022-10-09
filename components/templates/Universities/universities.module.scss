@@ -18,8 +18,9 @@
 .mainContent{
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  margin-bottom: 30px;
+  min-height: 100vh;
   .title{
     margin: 50px 0;
   }

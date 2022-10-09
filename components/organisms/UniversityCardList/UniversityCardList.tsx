@@ -1,17 +1,15 @@
-import React, { useContext } from "react";
+import React from "react";
+import UniversityCard from "../../molecules/UniversityCard";
 
 import styles from "./universityCardList.module.scss";
 
-import UniversitiesContext from "../../../storage/UniversitiesContext";
-import UniversityCard from "../../molecules/UniversityCard";
-
-export default function UniversityCardList(): JSX.Element {
-  const context = useContext(UniversitiesContext);
-
+export default function UniversityCardList({
+  universities,
+}: UniversitiesPageProps): JSX.Element {
   return (
     <div className={styles.container}>
       <ul className={styles.content}>
-        {context.universities.map((uni: any) => (
+        {universities.map((uni: any) => (
           <li key={uni.id}>
             <UniversityCard
               src={uni.img}

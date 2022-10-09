@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 import styles from "./universities.module.scss";
 
@@ -10,7 +10,37 @@ import UniversityCardList from "../../organisms/UniversityCardList";
 import { UniversitiesTitle } from "../../atoms/icons/index";
 import UniversitiesFilterSide from "../../organisms/UniversitiesFilterSide";
 
-export default function Universities(): JSX.Element {
+export default function Universities({
+  universities,
+}: UniversitiesPageProps): JSX.Element {
+  const [filteredUniversities, setFilteredUniversities] =
+    useState(universities);
+  const [search, setSearch] = useState("");
+  const [sort, setSort] = useState(0);
+  const handleSetSearch = (value: string) => {
+    setSearch(value);
+  };
+  const handleSort = (value: number) => {
+    setSort(value);
+    setFilteredUniversities((prev) => {
+      return [...prev].sort(() => -1);
+    });
+  };
+
+  useEffect(() => {
+    console.log("sort değişti");
+
+    setFilteredUniversities(
+      universities
+        .filter((uni) => uni.name.toLocaleLowerCase("tr").includes(search))
+        .sort(() => {
+          if (sort === 1) {
+            return 1;
+          } else return sort && -1;
+        })
+    );
+  }, [search]);
+
   return (
     <>
       <MasterComponent
@@ -28,9 +58,13 @@ export default function Universities(): JSX.Element {
         <FavoriteUniversityCardList />
       </MasterComponent>
       <div className={styles.mainContent}>
-        <UniversitiesTitle className={styles.title}/>
-        <UniversitiesFilterSide />
-        <UniversityCardList />
+        <UniversitiesTitle className={styles.title} />
+        <UniversitiesFilterSide
+          handleSetSearch={handleSetSearch}
+          sort={sort}
+          handleSort={handleSort}
+        />
+        <UniversityCardList universities={filteredUniversities} />
       </div>
     </>
   );
