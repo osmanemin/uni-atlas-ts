@@ -25,7 +25,7 @@
   margin: auto;
   width: min-content;
   
-  .mause {
+  .mouse {
     width: 40px;
     height: 70px;
     border: 3px solid black;
@@ -42,11 +42,5 @@
       position: relative;
       @include animation;
     }
-  }
-}
-
-@media (max-width: 580px) {
-  .container {
-    display: none;
   }
 }

@@ -13,14 +13,17 @@
   border-radius: 10px;
   transition: box-shadow 0.2s ease, border 0.2s ease;
 
+  & > span {
+    width: 100px !important;
+  }
   &:hover {
     background-color: white;
     box-shadow: 0px 6px 20px rgba(93, 93, 93, 0.23);
-    .city{
-        display: none;
+    .city {
+      display: none;
     }
-    .detailButton{
-        display: flex;
+    .detailButton {
+      display: flex;
     }
   }
 
@@ -35,15 +38,35 @@
     display: flex;
     align-items: center;
   }
-  
-  .detailButton{
-      display: none;
-      background-color: #333333;
-      border-radius: 5px;
-      width: 85%;
-      height: 30px;
-      color: white;
-      justify-content: center;
-      align-items: center;
+
+  .detailButton {
+    display: none;
+    background-color: #333333;
+    border-radius: 5px;
+    width: 85%;
+    height: 30px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+  }
+
+  @media (max-width: 580px) {
+    width: 170px;
+    height: 300px;
+    margin: 5px;
+    padding: 20px 20px;
+    .name {
+      font-size: 14px;
+      font-weight: 400;
+    }
+
+    .city {
+      font-size: 14px;
+      font-weight: 400;
+    }
+    .detailButton {
+      font-size: 14px;
+      font-weight: 400;
+    }
   }
 }

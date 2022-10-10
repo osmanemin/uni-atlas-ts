@@ -45,6 +45,7 @@ export default function SearchBar({
           name={name}
           className={styles.input}
           placeholder={placeHolder}
+          autoComplete="off"
         />
       ) : (
         <Select

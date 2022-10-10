@@ -1,5 +1,4 @@
 .bgImage {
-  margin-top: -240px;
   background-image: url("/background/pages/market_bg.jpeg");
   background-position: 0%;
 }
@@ -15,12 +14,6 @@
 }
 
 @media (max-width: 580px) {
-  .bgImage {
-    margin-top: 0;
-    background-position: 23% 0;
-    height: calc(100vh - 220px);
-  }
-
   .classContent {
     background-color: #ededed;
     left: 0;

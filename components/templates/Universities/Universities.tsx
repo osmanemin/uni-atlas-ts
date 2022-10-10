@@ -53,10 +53,10 @@ export default function Universities({
           classTitle={styles.title}
         />
         <ScrollBottom />
-        <FavoriteUniversityCardList />
+        {/* <FavoriteUniversityCardList /> */}
       </MasterComponent>
       <div className={styles.mainContent}>
-        <UniversitiesTitle className={styles.title} />
+        <UniversitiesTitle width={300} className={styles.title} />
         <UniversitiesFilterSide
           handleSetSearch={handleSetSearch}
           sort={sort}

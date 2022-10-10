@@ -5,7 +5,13 @@
   background-color: #ededed;
   width: 41%;
   border-radius: 20px;
-
+  height: 55px;
+  @media (max-width: 580px) {
+    width: calc(100% - 60px);
+  }
+  &:first-child{
+    margin-bottom: 10px;
+  }
   .input {
     margin-left: 20px;
     background-color: #ededed;
