@@ -12,8 +12,10 @@
   .title {
     color: white;
     user-select: none;
+    font-size: 36px;
   }
 }
+
 
 .mainContent{
   display: flex;
@@ -30,5 +32,24 @@
   .classContent {
     background-color: #c4c4c4;
     left: 0;
+  }
+  .title {
+    width: 354px;
+  }
+  .textStyle{
+    font-size: 50px; 
+  }
+  .uStyle{
+    font-size: 70px;
+  }
+}
+
+
+@media (max-width: 370px) {
+  .title {
+    width: 320px;
+  }
+  .textStyle{
+    font-size: 40px; 
   }
 }

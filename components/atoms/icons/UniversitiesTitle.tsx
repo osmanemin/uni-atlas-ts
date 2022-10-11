@@ -1,6 +1,6 @@
 import * as React from "react";
 
-function SvgUniversitiesTitle(props: any) {
+function SvgUniversitiesTitle({ textStyle = "", uStyle= "" ,...props}: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -14,6 +14,7 @@ function SvgUniversitiesTitle(props: any) {
           fill="#ff1f3e"
           fontSize={70}
           fontFamily="Poppins-Regular, Poppins"
+          className={textStyle}
         >
           <tspan x={0} y={0}>
             {"niversiteler"}
@@ -25,6 +26,7 @@ function SvgUniversitiesTitle(props: any) {
           fontSize={80}
           fontFamily="Poppins-Bold, Poppins"
           fontWeight={700}
+          className={uStyle}
         >
           <tspan x={0} y={0}>
             {"U"}

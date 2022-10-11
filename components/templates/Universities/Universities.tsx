@@ -56,7 +56,7 @@ export default function Universities({
         {/* <FavoriteUniversityCardList /> */}
       </MasterComponent>
       <div className={styles.mainContent}>
-        <UniversitiesTitle width={300} className={styles.title} />
+        <UniversitiesTitle textStyle={styles.textStyle} uStyle={styles.uStyle} className={styles.title} />
         <UniversitiesFilterSide
           handleSetSearch={handleSetSearch}
           sort={sort}
