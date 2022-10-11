@@ -45,6 +45,7 @@ export default function Universities({
         title="Üniversiteler"
         color="rgba(255, 31, 62, 0.85)"
         classBg={styles.bgImage}
+        bgImage={"/background/pages/university_bg.jpg"}
       >
         <Summary
           title="ÜNİVERSİTELERİ KEŞFET"

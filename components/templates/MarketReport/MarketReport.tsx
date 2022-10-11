@@ -14,6 +14,7 @@ export default function MarketReport(): JSX.Element {
         title="Piyasa Raporu"
         color="rgb(242, 206, 22, 0.85)"
         classBg={styles.bgImage}
+        bgImage={"/background/pages/market_bg.jpeg"}
       >
         <Summary
           title="Nedir ?"

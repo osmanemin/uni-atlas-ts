@@ -19,7 +19,7 @@ export default function UniversityCard({
   return (
     <Link href="/universiteler/[uni]" as={`/universiteler/${slug}`}>
       <a className={styles.container}>
-        <Image src={src} width={140} height={140} alt={name} />
+        <Image src={src} width={140} height={140} alt={name} lazyBoundary="200px" />
         <h2 className={styles.name}>{name}</h2>
         <h4 className={styles.city}>{city}</h4>
         <div className={styles.detailButton}>İncele</div>

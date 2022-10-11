@@ -3,20 +3,25 @@
   position: absolute;
   height: 100vh;
   width: 100vw;
-  background-repeat: no-repeat;
-  background-size: cover;
   z-index: -1;
+  object-fit: cover;
+}
 
-  .linearGradient {
-    position: absolute;
-    width: 100%;
-    height: 20%;
-    bottom: 0;
-    background-image: linear-gradient(
-      rgba(255, 255, 255, 0),
-      rgba(138, 138, 138, 1)
-    );
+.bgWrapper {
+  & > span{
+    z-index: -1;
   }
+}
+
+.linearGradient {
+  position: absolute;
+  width: 100%;
+  height: 20%;
+  bottom: 0;
+  background-image: linear-gradient(
+    rgba(255, 255, 255, 0),
+    rgba(138, 138, 138, 1)
+  );
 }
 
 @media (max-width: 580px) {
