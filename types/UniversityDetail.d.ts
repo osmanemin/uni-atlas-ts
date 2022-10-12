@@ -4,6 +4,7 @@ interface UniversityDetail {
   date: string;
   id: number;
   img: string;
+  bgImage: string;
   mail: string;
   rector: string;
   slug: string;

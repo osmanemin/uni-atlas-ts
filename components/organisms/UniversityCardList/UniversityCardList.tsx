@@ -12,7 +12,7 @@ export default function UniversityCardList({
         {universities.map((uni: any) => (
           <li key={uni.id}>
             <UniversityCard
-              src={uni.img}
+              src={`/uni_avatars/${uni.img}`}
               name={uni.name}
               city={uni.city}
               slug={uni.slug}

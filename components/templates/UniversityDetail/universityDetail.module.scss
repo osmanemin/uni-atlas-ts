@@ -1,10 +1,8 @@
 .bgImage {
-  //background-image: url("/background/pages/market_bg.jpeg");
   width: 100vw;
   height: 100vh;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 0% 50%;
+  object-fit: cover;
+  object-position: 0% 50%;
   .navi {
     display: flex;
     align-items: center;
