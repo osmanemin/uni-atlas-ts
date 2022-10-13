@@ -9,7 +9,7 @@ import UniversityDetailContext from "../../storage/UniversityDetailContext";
 export default function Uni({university}: UniversityPageProps) {
   return (
     <UniversityDetailContext.Provider value={university}>
-      <Head />
+      <Head title={university.name} />
       <UniversityDetail />
     </UniversityDetailContext.Provider>
   );

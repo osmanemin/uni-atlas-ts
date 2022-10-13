@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  border: 1px solid #e0e7ef;
+  border-radius: 8px;
+
+  width: 900px;
+  .title {
+    display: flex;
+  }
+  .cardList {
+    display: grid;
+    gap: 15px;
+    justify-items: center;
+    align-items: center;
+    height: 350px;
+    width: 700px;
+    margin: 40px auto;
+  }
+}
