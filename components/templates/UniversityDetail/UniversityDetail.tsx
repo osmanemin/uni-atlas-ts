@@ -69,6 +69,7 @@ export default function UniversityDetail(): JSX.Element {
       <UniversityDetailGroups
         programs={universityContext.programs}
         academicians={universityContext.academicians}
+        students={universityContext.students}
       />
     </>
   );

@@ -10,6 +10,18 @@
   width: 900px;
   .title {
     display: flex;
+    position: relative;
+    font-size: 20px;
+
+    &::after{
+      position: absolute;
+      content: " ";
+      width: 100px;
+      height: 1px;
+      background-color: black;
+      bottom: -8px;
+      right: -10px;
+    }
   }
   .cardList {
     display: grid;

@@ -33,9 +33,7 @@ export async function getStaticProps(params: { params: { uni: string } }) {
     query: { slug: params.params.uni },
   });
 
-  const students: StudentOfUniversity[] = [];
-  await findAll({
-    data: students,
+  const students: StudentOfUniversity = await findOne({
     collectionName: "students",
     query: { slug: params.params.uni },
   });

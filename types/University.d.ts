@@ -1,5 +1,5 @@
 interface University extends UniversityDetail {
-  students: StudentOfUniversity[];
+  students: StudentOfUniversity;
   programs: ProgramOfUniversity;
   academicians: AcademicianOfUniversity;
 };
