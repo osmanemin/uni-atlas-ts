@@ -19,6 +19,7 @@ export default function UniversityDetail(): JSX.Element {
         <BgMaster
           classBg={styles.bgImage}
           bgImage={`/university/universityBg/${universityContext.bgImage}`}
+          alt={universityContext.name}
         />
         <ScrollBottom />
         <div className={styles.navigation}>

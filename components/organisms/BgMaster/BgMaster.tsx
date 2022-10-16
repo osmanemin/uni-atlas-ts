@@ -4,20 +4,23 @@ import Image from "next/image";
 
 import styles from "./bgMaster.module.scss";
 
-type BgMarketProps = {
+type BgMasterProps = {
   classBg: string;
   bgImage: string;
+  alt: string;
 };
 
-export default function BgMarket({
+export default function BgMaster({
   classBg,
   bgImage,
-}: BgMarketProps): JSX.Element {
+  alt,
+}: BgMasterProps): JSX.Element {
   return (
     <div className={styles.bgWrapper}>
       <Image
         layout="fill"
         src={bgImage}
+        alt={alt}
         priority
         className={cn(styles.bgImage, classBg)}
       ></Image>

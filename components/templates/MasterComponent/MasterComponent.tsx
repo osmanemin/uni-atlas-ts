@@ -12,6 +12,7 @@ type MasterComponentProps = {
   color: string;
   classBg: string;
   bgImage: string;
+  alt: string;
 };
 export default function MasterComponent({
   children,
@@ -19,12 +20,13 @@ export default function MasterComponent({
   color,
   classBg,
   bgImage,
+  alt,
 }: MasterComponentProps): JSX.Element {
   return (
     <div className={styles.upSide}>
       <Head />
       <MasterNavigation title={title} color={color} />
-      <BgMaster classBg={classBg} bgImage={bgImage}/>
+      <BgMaster classBg={classBg} bgImage={bgImage} alt={alt}/>
       {children}
     </div>
   );
