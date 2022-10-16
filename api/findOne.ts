@@ -2,8 +2,11 @@ import { MongoClient } from "mongodb";
 
 const client = new MongoClient(process.env.MONGODB_URL || "");
 
-const findOne = async ({ query = {}, collectionName }: FindOneOperation): Promise<any> => {
-  let result ;
+const findOne = async ({
+  query = {},
+  collectionName,
+}: FindOneOperation): Promise<any> => {
+  let result;
   await client.connect();
   await client
     .db(process.env.DB_NAME || "")
@@ -11,7 +14,7 @@ const findOne = async ({ query = {}, collectionName }: FindOneOperation): Promis
     .findOne(query)
     .then((res: any) => {
       result = res;
-      delete result._id;
+      if (result) delete result._id;
     });
   return result;
 };
