@@ -16,8 +16,21 @@
   }
   .title {
     text-align: center;
+    font-size: 14px;
   }
 
   .count {
+    margin: 0 10px;
+  }
+
+  @media (max-width: 420px) {
+    justify-content: space-between;
+    padding: 10px 20px;
+    width: 240px;
+    height: 65px;
+    flex-direction: row;
+    .title {
+      text-align: left;
+    }
   }
 }

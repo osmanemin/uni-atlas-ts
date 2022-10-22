@@ -36,18 +36,15 @@ export default function UniversityDetail(): JSX.Element {
             src={`/uni_avatars/${universityContext.img}`}
             alt={universityContext.name}
           />
-          <h3 className={styles.navigationTitle}>Fakülteler</h3>
-          <h3 className={styles.navigationTitle}>Bölümler</h3>
-          <h3 className={styles.navigationTitle}>İletişim</h3>
-          <h3 className={styles.navigationTitle}>Galeri</h3>
+          <span className={styles.navigationTitle}>Fakülteler</span>
+          <span className={styles.navigationTitle}>Bölümler</span>
           <a
-            href={"http://www." + universityContext.web}
+            href={`http://www.${universityContext.web}`}
             target="_blank"
             rel="noreferrer"
+            className={cn(styles.navigationTitle, styles.naviGoTo)}
           >
-            <h3 className={cn(styles.navigationTitle, styles.naviGoTo)}>
-              Siteye git
-            </h3>
+            Üniversiteye Git
           </a>
         </div>
         <Summary classContent={styles.summary}>

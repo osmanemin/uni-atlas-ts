@@ -6,7 +6,7 @@ import Head from "../../components/molecules/Head";
 import UniversityDetail from "../../components/templates/UniversityDetail/UniversityDetail";
 import UniversityDetailContext from "../../storage/UniversityDetailContext";
 
-export default function Uni({university}: UniversityPageProps) {
+export default function Uni({ university }: UniversityPageProps) {
   return (
     <UniversityDetailContext.Provider value={university}>
       <Head title={university.name} />
@@ -38,6 +38,11 @@ export async function getStaticProps(params: { params: { uni: string } }) {
     query: { slug: params.params.uni },
   });
 
+  const socialOpportunities: SocialOpportunities = await findOne({
+    collectionName: "socialOpportunities",
+    query: { slug: params.params.uni },
+  });
+
   const students: StudentOfUniversity = await findOne({
     collectionName: "students",
     query: { slug: params.params.uni },
@@ -58,7 +63,8 @@ export async function getStaticProps(params: { params: { uni: string } }) {
     programs: programs,
     students,
     academicians,
-    social
+    social,
+    socialOpportunities,
   };
   return {
     props: { university },

@@ -3,17 +3,19 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 500px;
+  min-height: 500px;
   border: 1px solid #e0e7ef;
   border-radius: 8px;
-
   width: 900px;
+  max-width: 100%;
+  padding: 20px 20px 10px 20px;
   .title {
     display: flex;
     position: relative;
     font-size: 20px;
+    margin-top: 20px;
 
-    &::after{
+    &::after {
       position: absolute;
       content: " ";
       width: 100px;
@@ -28,8 +30,21 @@
     gap: 15px;
     justify-items: center;
     align-items: center;
-    height: 350px;
+    min-height: 350px;
     width: 700px;
-    margin: 40px auto;
+    margin: 40px auto 10px auto;
+
+    @media (max-width: 775px) {
+      width: 100%;
+      grid-template-columns: repeat(3, 1fr) !important;
+    }
+    @media (max-width: 590px) {
+      grid-template-columns: repeat(2, 1fr) !important;
+    }
+    @media (max-width: 420px) {
+      margin-top: 20px;
+      gap: 10px;
+      grid-template-columns: repeat(1, 1fr) !important;
+    }
   }
 }

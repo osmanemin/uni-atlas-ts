@@ -3,4 +3,5 @@ interface University extends UniversityDetail {
   programs: ProgramOfUniversity;
   academicians: AcademicianOfUniversity;
   social: SocialOfUniversities;
-};
+  socialOpportunities: SocialOpportunities;
+}
