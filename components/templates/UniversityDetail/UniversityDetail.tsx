@@ -39,7 +39,7 @@ export default function UniversityDetail(): JSX.Element {
           <span className={styles.navigationTitle}>Fakülteler</span>
           <span className={styles.navigationTitle}>Bölümler</span>
           <a
-            href={`http://www.${universityContext.web}`}
+            href={`https://www.${universityContext.web}`}
             target="_blank"
             rel="noreferrer"
             className={cn(styles.navigationTitle, styles.naviGoTo)}
