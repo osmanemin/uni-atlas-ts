@@ -44,14 +44,22 @@ export default function UniversityDetail(): JSX.Element {
           {universityContext.social && (
             <>
               {universityContext.social.twitter ? (
-                <a href={universityContext.social.twitter} target="_blank">
+                <a
+                  href={universityContext.social.twitter}
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <Twitter className={styles.icons} />
                 </a>
               ) : (
                 <Twitter className={cn(styles.icons, styles.noUrl)} />
               )}
               {universityContext.social.facebook ? (
-                <a href={universityContext.social.facebook} target="_blank">
+                <a
+                  href={universityContext.social.facebook}
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <Facebook className={styles.icons} />
                 </a>
               ) : (
@@ -59,7 +67,11 @@ export default function UniversityDetail(): JSX.Element {
               )}
 
               {universityContext.social.instagram ? (
-                <a href={universityContext.social.instagram} target="_blank">
+                <a
+                  href={universityContext.social.instagram}
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <Instagram className={styles.icons} />
                 </a>
               ) : (
