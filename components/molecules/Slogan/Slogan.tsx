@@ -5,7 +5,8 @@ export default function Slogan(): JSX.Element {
   return (
     <div className={styles.slogan}>
       <p>{`İyi bir
-gelecek için...`}</p>
+gelecek için
+keşfetmeye başla`}</p>
     </div>
   );
 }
