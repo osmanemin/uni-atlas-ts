@@ -1,4 +1,4 @@
-type SocialOfUniversities = {
+type SocialOfUniversity = {
   name: string;
   instagram: string;
   facebook: string;

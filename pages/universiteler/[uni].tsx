@@ -33,7 +33,7 @@ export async function getStaticProps(params: { params: { uni: string } }) {
     query: { slug: params.params.uni },
   });
 
-  const social: SocialOfUniversities = await findOne({
+  const social: SocialOfUniversity = await findOne({
     collectionName: "social",
     query: { slug: params.params.uni },
   });

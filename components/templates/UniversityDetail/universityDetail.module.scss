@@ -2,51 +2,7 @@
   width: 100vw;
   height: 100vh;
   object-fit: cover;
-  .navigation {
-    display: flex;
-    align-items: center;
-    justify-content: flex-end;
-    background-color: rgba($color: #5a5a5a, $alpha: 0.8);
-    width: 100vw;
-    height: 100px;
-    position: relative;
-    .img {
-      position: absolute;
-      left: 100px;
-      top: 30px;
-      width: 200px;
-    }
-    .navigationTitle {
-      margin-right: 80px;
-      color: white;
-      font-size: 18px;
-      font-weight: 300;
-      cursor: pointer;
-      transition-duration: 100ms;
-      &:hover{
-        transform: scale(1.05);
-      }
-    }
-    .naviGoTo {
-      background-color: black;
-      padding: 15px 20px;
-      border-radius: 5px;
-      min-width: 180px;
-    }
-    .icons{
-      transition-duration: 400ms;
-      margin-right: 15px;
-      &:hover{
-        transform: rotate(360deg);
-      }
-    }
-    .noUrl{
-      opacity: 0.5;
-      &:hover{
-        transform: rotate(0deg);
-      }
-    }
-  }
+
   .summary {
     background-color: rgba($color: white, $alpha: 0.8);
     width: 280px !important;
