@@ -13,43 +13,56 @@ import UniversityDetailGroups from "../../organisms/UniversityDetailGroups";
 import UniversityDetailHeader from "../../organisms/UniversityDetailHeader";
 
 export default function UniversityDetail(): JSX.Element {
-  const universityContext = useContext(UniversityDetailContext);
+  const {
+    social,
+    bgImage,
+    name,
+    web,
+    img,
+    city,
+    date,
+    type,
+    programs,
+    academicians,
+    students,
+  } = useContext(UniversityDetailContext);
+
   return (
     <>
       <div className={styles.bgImage}>
         <BgMaster
           classBg={styles.bgImage}
-          bgImage={`/university/universityBg/${universityContext.bgImage}`}
-          alt={universityContext.name}
+          bgImage={`/university/universityBg/${bgImage}`}
+          alt={name}
         />
         <ScrollBottom />
         <UniversityDetailHeader
-          social={universityContext.social}
-          name={universityContext.name}
-          webSite={universityContext.web}
-          img={universityContext.img}
+          social={social}
+          name={name}
+          webSite={web}
+          img={img}
         />
         <Summary classContent={styles.summary}>
-          <SummaryUniData title="Konum:" content={universityContext.city}>
+          <SummaryUniData title="Konum:" content={city}>
             <Position />
           </SummaryUniData>
-          <SummaryUniData title="Kuruluş:" content={universityContext.date}>
+          <SummaryUniData title="Kuruluş:" content={date}>
             <Since />
           </SummaryUniData>
-          <SummaryUniData title="Türü:" content={universityContext.type}>
+          <SummaryUniData title="Türü:" content={type}>
             <UniType />
           </SummaryUniData>
         </Summary>
         <Summary
           classContent={styles.summaryUniNameContent}
           classTitle={styles.summaryUniName}
-          title={universityContext.name}
+          title={name}
         ></Summary>
       </div>
       <UniversityDetailGroups
-        programs={universityContext.programs}
-        academicians={universityContext.academicians}
-        students={universityContext.students}
+        programs={programs}
+        academicians={academicians}
+        students={students}
       />
     </>
   );

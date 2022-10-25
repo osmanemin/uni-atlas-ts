@@ -17,7 +17,6 @@ export default function MenuButton({
 }: MenuButtonProps): JSX.Element {
   return (
     <Link href={href}>
-      <a>
         <div
           className={styles.container}
           style={{ backgroundColor: `${bgColor}` }}
@@ -25,7 +24,6 @@ export default function MenuButton({
           {children}
           <h2 className={styles.title}>{title}</h2>
         </div>
-      </a>
     </Link>
   );
 }

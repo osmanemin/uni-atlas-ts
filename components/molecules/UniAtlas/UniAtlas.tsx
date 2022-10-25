@@ -11,12 +11,10 @@ type UniAtlasProps = {
 
 export default function UniAtlas({ className, titleClass }: UniAtlasProps) {
   return (
-    <Link href="/">
-      <a>
+    <Link legacyBehavior href="/">
         <div className={cn(className, styles.container)}>
           <h1 className={cn(titleClass, styles.title)}>UNİ ATLAS</h1>
         </div>
-      </a>
     </Link>
   );
 }

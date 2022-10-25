@@ -17,13 +17,11 @@ export default function UniversityCard({
   slug,
 }: UniversityCard): JSX.Element {
   return (
-    <Link href="/universiteler/[uni]" as={`/universiteler/${slug}`}>
-      <a className={styles.container}>
-        <Image src={src} width={140} height={140} alt={name} lazyBoundary="200px" />
+    <Link className={styles.container} href="/universiteler/[uni]" as={`/universiteler/${slug}`}>
+        <Image src={src} width={140} height={140} alt={name} />
         <h2 className={styles.name}>{name}</h2>
         <h4 className={styles.city}>{city}</h4>
         <div className={styles.detailButton}>İncele</div>
-      </a>
     </Link>
   );
 }

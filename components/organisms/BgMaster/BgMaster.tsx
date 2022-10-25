@@ -18,7 +18,7 @@ export default function BgMaster({
   return (
     <div className={styles.bgWrapper}>
       <Image
-        layout="fill"
+        fill
         src={bgImage}
         alt={alt}
         priority
