@@ -11,8 +11,14 @@ import Image from "next/image";
 export default function Main(): JSX.Element {
   return (
     <>
-      <Image alt="ani atlas" src={"/background/pages/background.jpeg"} fill priority className={styles.bgImage}/>
       <div className={styles.wrapper}>
+        <Image
+          alt="ani atlas"
+          src={"/background/pages/background.jpeg"}
+          fill
+          priority
+          className={styles.bgImage}
+        />
         <UniAtlas className={styles.uniAtlas} />
         <Slogan />
         <NavigationMenu />
