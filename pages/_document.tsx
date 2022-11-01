@@ -5,14 +5,14 @@ const Document = () => {
   return (
     <Html lang="tr">
       <Head>
-        <link
+        {/* <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Poppins"
         />
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css?family=Dancing+Script"
-        />
+        /> */}
       </Head>
       <body>
         <Main />
