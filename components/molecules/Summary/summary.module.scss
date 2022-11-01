@@ -24,6 +24,7 @@
 
 @media (max-width: 580px) {
   .container {
+    margin-top: calc(100vh - 220px);
     .content {
       position: relative;
       color: black;
