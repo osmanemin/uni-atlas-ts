@@ -1,5 +1,4 @@
 .bgImage {
-  margin-top: -240px;
   position: absolute;
   height: 100vh;
   width: 100vw;
@@ -9,7 +8,7 @@
 }
 
 .bgWrapper {
-  & > span{
+  & > img{
     z-index: -1;
   }
 }
@@ -27,7 +26,6 @@
 
 @media (max-width: 580px) {
   .bgImage {
-    margin-top: -220px;
     position: relative;
     background-position: 23% 0%;
   }
