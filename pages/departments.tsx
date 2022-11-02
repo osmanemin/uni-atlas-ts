@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Sehirler() {
+export default function Departments() {
     return (
         <div>
             

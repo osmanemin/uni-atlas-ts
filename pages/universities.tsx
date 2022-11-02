@@ -3,7 +3,7 @@ import findAll from "../api/findAll";
 
 import Universities from "../components/templates/Universities/Universities";
 
-export default function UniversityPage({
+export default function UniversitiesPage({
   universities,
 }: UniversitiesPageProps) {
   return <Universities universities={universities} />;

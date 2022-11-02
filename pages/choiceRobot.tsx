@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TercihRobotu() {
+export default function ChoiceRobot() {
     return (
         <div>
             

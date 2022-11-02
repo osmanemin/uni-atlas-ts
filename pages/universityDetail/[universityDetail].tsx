@@ -6,7 +6,7 @@ import Head from "../../components/molecules/Head";
 import UniversityDetail from "../../components/templates/UniversityDetail/UniversityDetail";
 import UniversityDetailContext from "../../storage/UniversityDetailContext";
 
-export default function Uni({ university }: UniversityPageProps) {
+export default function UniversityDetailPage({ university }: UniversityPageProps) {
   return (
     <UniversityDetailContext.Provider value={university}>
       <Head title={university.name} />
@@ -20,42 +20,42 @@ export async function getStaticPaths() {
   await findAll({ data: universities, collectionName: "universities" });
   const paths = universities.map((uni) => ({
     params: {
-      uni: uni.slug,
+      universityDetail: uni.slug,
     },
   }));
 
   return { paths, fallback: false };
 }
 
-export async function getStaticProps(params: { params: { uni: string } }) {
+export async function getStaticProps(params: { params: { universityDetail: string } }) {
   const universities: UniversityDetail = await findOne({
     collectionName: "universities",
-    query: { slug: params.params.uni },
+    query: { slug: params.params.universityDetail },
   });
 
   const social: SocialOfUniversity = await findOne({
     collectionName: "social",
-    query: { slug: params.params.uni },
+    query: { slug: params.params.universityDetail },
   });
 
   const socialOpportunities: SocialOpportunities = await findOne({
     collectionName: "socialOpportunities",
-    query: { slug: params.params.uni },
+    query: { slug: params.params.universityDetail },
   });
 
   const students: StudentOfUniversity = await findOne({
     collectionName: "students",
-    query: { slug: params.params.uni },
+    query: { slug: params.params.universityDetail },
   });
 
   const programs: ProgramOfUniversity = await findOne({
     collectionName: "programs",
-    query: { slug: params.params.uni },
+    query: { slug: params.params.universityDetail },
   });
 
   const academicians: AcademicianOfUniversity = await findOne({
     collectionName: "academicians",
-    query: { slug: params.params.uni },
+    query: { slug: params.params.universityDetail },
   });
 
   const university: University = {

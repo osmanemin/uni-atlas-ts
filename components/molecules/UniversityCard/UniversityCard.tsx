@@ -17,7 +17,7 @@ export default function UniversityCard({
   slug,
 }: UniversityCard): JSX.Element {
   return (
-    <Link className={styles.container} href="/universiteler/[uni]" as={`/universiteler/${slug}`}>
+    <Link className={styles.container} href="/universiteler/[universityDetail]" as={`/universiteler/${slug}`}>
         <Image src={src} width={140} height={140} alt={name} />
         <h2 className={styles.name}>{name}</h2>
         <h4 className={styles.city}>{city}</h4>

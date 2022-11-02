@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import findAll from "../api/findAll";
 
 import MarketReport from "../components/templates/MarketReport/MarketReport";
